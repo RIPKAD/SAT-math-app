@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "psda-pct-0",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 150 = 90.0$."
+  },
+  {
+    "id": "psda-pct-1",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 50 = 15.0$."
+  },
+  {
+    "id": "psda-pct-2",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 200 = 30.0$."
+  },
+  {
+    "id": "psda-pct-3",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 18.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 60 = 18.0$."
+  },
+  {
+    "id": "psda-pct-4",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 300 = 45.0$."
+  },
+  {
+    "id": "psda-pct-5",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $25\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$25/100 \\times 60 = 15.0$."
+  },
+  {
+    "id": "psda-pct-6",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 150 = 22.5$."
+  },
+  {
+    "id": "psda-pct-7",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 60 = 30.0$."
+  },
+  {
+    "id": "psda-pct-8",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 100 = 20.0$."
+  },
+  {
+    "id": "psda-pct-9",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 300 = 60.0$."
+  },
+  {
+    "id": "psda-pct-10",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 100 = 20.0$."
+  },
+  {
+    "id": "psda-pct-11",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 300 = 15.0$."
+  },
+  {
+    "id": "psda-pct-12",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 100 = 20.0$."
+  },
+  {
+    "id": "psda-pct-13",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 150.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 300 = 150.0$."
+  },
+  {
+    "id": "psda-pct-14",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $40$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 40 = 6.0$."
+  },
+  {
+    "id": "psda-pct-15",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 18.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 60 = 18.0$."
+  },
+  {
+    "id": "psda-pct-16",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 300 = 45.0$."
+  },
+  {
+    "id": "psda-pct-17",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $120$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 120 = 6.0$."
+  },
+  {
+    "id": "psda-pct-18",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 10.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 50 = 10.0$."
+  },
+  {
+    "id": "psda-pct-19",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $40$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 40 = 12.0$."
+  },
+  {
+    "id": "psda-pct-20",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $10\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$10/100 \\times 80 = 8.0$."
+  },
+  {
+    "id": "psda-pct-21",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 60 = 30.0$."
+  },
+  {
+    "id": "psda-pct-22",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 150 = 22.5$."
+  },
+  {
+    "id": "psda-pct-23",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 50 = 30.0$."
+  },
+  {
+    "id": "psda-pct-24",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $250$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 250 = 12.5$."
+  },
+  {
+    "id": "psda-pct-25",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 300 = 60.0$."
+  },
+  {
+    "id": "psda-pct-26",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 50 = 20.0$."
+  },
+  {
+    "id": "psda-pct-27",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 60 = 12.0$."
+  },
+  {
+    "id": "psda-pct-28",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 100 = 15.0$."
+  },
+  {
+    "id": "psda-pct-29",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 200 = 30.0$."
+  },
+  {
+    "id": "psda-pct-30",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 300 = 90.0$."
+  },
+  {
+    "id": "psda-pct-31",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 150 = 7.5$."
+  },
+  {
+    "id": "psda-pct-32",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 150.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 300 = 150.0$."
+  },
+  {
+    "id": "psda-pct-33",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 40.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 100 = 40.0$."
+  },
+  {
+    "id": "psda-pct-34",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 150 = 22.5$."
+  },
+  {
+    "id": "psda-pct-35",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 300 = 45.0$."
+  },
+  {
+    "id": "psda-pct-36",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 16.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 80 = 16.0$."
+  },
+  {
+    "id": "psda-pct-37",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 50.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 100 = 50.0$."
+  },
+  {
+    "id": "psda-pct-38",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $250$?",
+    "response": {
+      "type": "spr",
+      "answer": 37.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 250 = 37.5$."
+  },
+  {
+    "id": "psda-pct-39",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 300 = 60.0$."
+  },
+  {
+    "id": "psda-pct-40",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 36.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 60 = 36.0$."
+  },
+  {
+    "id": "psda-pct-41",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 60 = 12.0$."
+  },
+  {
+    "id": "psda-pct-42",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $10\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$10/100 \\times 200 = 20.0$."
+  },
+  {
+    "id": "psda-pct-43",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $25\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$25/100 \\times 50 = 12.5$."
+  },
+  {
+    "id": "psda-pct-44",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 60 = 3.0$."
+  },
+  {
+    "id": "psda-pct-45",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 80.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 200 = 80.0$."
+  },
+  {
+    "id": "psda-pct-46",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 48.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 80 = 48.0$."
+  },
+  {
+    "id": "psda-pct-47",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 32.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 80 = 32.0$."
+  },
+  {
+    "id": "psda-pct-48",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $25\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$25/100 \\times 50 = 12.5$."
+  },
+  {
+    "id": "psda-pct-49",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 100 = 60.0$."
+  },
+  {
+    "id": "psda-ratio-0",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:7$. If A is $5$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.83,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 5 / 6$."
+  },
+  {
+    "id": "psda-ratio-1",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:12$. If A is $5$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 12 \\times 5 / 4$."
+  },
+  {
+    "id": "psda-ratio-2",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $5:3$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 7.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 3 \\times 12 / 5$."
+  },
+  {
+    "id": "psda-ratio-3",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $3:9$. If A is $10$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 9 \\times 10 / 3$."
+  },
+  {
+    "id": "psda-ratio-4",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:10$. If A is $3$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 3 / 6$."
+  },
+  {
+    "id": "psda-ratio-5",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:10$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 17.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 7 / 4$."
+  },
+  {
+    "id": "psda-ratio-6",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:4$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 3.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 4 \\times 8 / 10$."
+  },
+  {
+    "id": "psda-ratio-7",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:7$. If A is $3$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.1,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 3 / 10$."
+  },
+  {
+    "id": "psda-ratio-8",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:13$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.89,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 13 \\times 2 / 9$."
+  },
+  {
+    "id": "psda-ratio-9",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:7$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 7 / 4$."
+  },
+  {
+    "id": "psda-ratio-10",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:10$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 9 / 4$."
+  },
+  {
+    "id": "psda-ratio-11",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:4$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 4 \\times 9 / 6$."
+  },
+  {
+    "id": "psda-ratio-12",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:8$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 6.22,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 8 \\times 7 / 9$."
+  },
+  {
+    "id": "psda-ratio-13",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $3:6$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 14.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 7 / 3$."
+  },
+  {
+    "id": "psda-ratio-14",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:7$. If A is $11$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.83,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 11 / 6$."
+  },
+  {
+    "id": "psda-ratio-15",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:4$. If A is $3$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 1.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 4 \\times 3 / 10$."
+  },
+  {
+    "id": "psda-ratio-16",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $2:13$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 45.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 13 \\times 7 / 2$."
+  },
+  {
+    "id": "psda-ratio-17",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:10$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 9 / 7$."
+  },
+  {
+    "id": "psda-ratio-18",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $8:5$. If A is $4$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 4 / 8$."
+  },
+  {
+    "id": "psda-ratio-19",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $5:5$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 12 / 5$."
+  },
+  {
+    "id": "psda-ratio-20",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:6$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 7.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 9 / 7$."
+  },
+  {
+    "id": "psda-ratio-21",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:15$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 15 \\times 12 / 4$."
+  },
+  {
+    "id": "psda-ratio-22",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:6$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 4.8,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 8 / 10$."
+  },
+  {
+    "id": "psda-ratio-23",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:9$. If A is $4$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 9 \\times 4 / 7$."
+  },
+  {
+    "id": "psda-ratio-24",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:12$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 14.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 12 \\times 7 / 6$."
+  },
+  {
+    "id": "psda-ratio-25",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $8:11$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 11.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 11 \\times 8 / 8$."
+  },
+  {
+    "id": "psda-ratio-26",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $2:14$. If A is $5$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 35.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 14 \\times 5 / 2$."
+  },
+  {
+    "id": "psda-ratio-27",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:6$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 12 / 9$."
+  },
+  {
+    "id": "psda-ratio-28",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $5:5$. If A is $11$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 11.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 11 / 5$."
+  },
+  {
+    "id": "psda-ratio-29",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:10$. If A is $11$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 11 / 7$."
+  },
+  {
+    "id": "psda-ratio-30",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:14$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 4.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 14 \\times 2 / 7$."
+  },
+  {
+    "id": "psda-ratio-31",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:8$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 8 \\times 9 / 9$."
+  },
+  {
+    "id": "psda-ratio-32",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $2:6$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 2 / 2$."
+  },
+  {
+    "id": "psda-ratio-33",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:5$. If A is $6$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 6 / 6$."
+  },
+  {
+    "id": "psda-ratio-34",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:10$. If A is $4$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 10.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 4 / 4$."
+  },
+  {
+    "id": "psda-ratio-35",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:6$. If A is $10$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 10 / 4$."
+  },
+  {
+    "id": "psda-ratio-36",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:5$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 12 / 4$."
+  },
+  {
+    "id": "psda-ratio-37",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:15$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 15 \\times 8 / 6$."
+  },
+  {
+    "id": "psda-ratio-38",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:10$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 2 / 10$."
+  },
+  {
+    "id": "psda-ratio-39",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $8:12$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 12 \\times 8 / 8$."
+  },
+  {
+    "id": "psda-mean-0",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.8$. Four numbers are 12, 14, 8, 6. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-1",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $12.0$. Four numbers are 18, 13, 6, 15. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-2",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $17.0$. Four numbers are 17, 12, 18, 21. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-3",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.6$. Four numbers are 19, 5, 5, 11. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-4",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.4$. Four numbers are 18, 17, 11, 7. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-5",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.2$. Four numbers are 19, 5, 15, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-6",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $8.2$. Four numbers are 11, 4, 6, 6. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-7",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $19.4$. Four numbers are 21, 20, 19, 21. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-8",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.8$. Four numbers are 19, 13, 10, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-9",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $15.0$. Four numbers are 16, 10, 20, 10. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 19,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-10",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $12.2$. Four numbers are 10, 5, 20, 10. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-11",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.0$. Four numbers are 13, 12, 19, 13. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-12",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.6$. Four numbers are 21, 16, 14, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-13",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $10.2$. Four numbers are 8, 6, 15, 11. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-14",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.0$. Four numbers are 7, 18, 5, 4. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-15",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.6$. Four numbers are 22, 5, 16, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-16",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.0$. Four numbers are 7, 9, 10, 13. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-17",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $16.8$. Four numbers are 17, 11, 18, 22. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-18",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.8$. Four numbers are 13, 10, 22, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-19",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $16.6$. Four numbers are 19, 22, 12, 19. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-20",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $15.8$. Four numbers are 20, 22, 15, 9. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-21",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $12.2$. Four numbers are 19, 20, 6, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-22",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.8$. Four numbers are 17, 5, 15, 16. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-23",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.8$. Four numbers are 19, 10, 10, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-24",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.6$. Four numbers are 10, 11, 9, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-25",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.4$. Four numbers are 11, 17, 8, 22. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-26",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $10.6$. Four numbers are 16, 16, 10, 4. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-27",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.8$. Four numbers are 22, 11, 9, 11. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-28",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.6$. Four numbers are 19, 14, 14, 10. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-29",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.6$. Four numbers are 16, 16, 21, 6. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-prob-0",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $30$ items, $24$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.8,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $24/30$."
+  },
+  {
+    "id": "psda-prob-1",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $15$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $15/40$."
+  },
+  {
+    "id": "psda-prob-2",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $31$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $31/50$."
+  },
+  {
+    "id": "psda-prob-3",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.56,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $14/25$."
+  },
+  {
+    "id": "psda-prob-4",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $15$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $15/25$."
+  },
+  {
+    "id": "psda-prob-5",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $41$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.82,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $41/50$."
+  },
+  {
+    "id": "psda-prob-6",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $6$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.12,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $6/50$."
+  },
+  {
+    "id": "psda-prob-7",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $17$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.68,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $17/25$."
+  },
+  {
+    "id": "psda-prob-8",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $25$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.42,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $25/60$."
+  },
+  {
+    "id": "psda-prob-9",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.28,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/40$."
+  },
+  {
+    "id": "psda-prob-10",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.55,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/20$."
+  },
+  {
+    "id": "psda-prob-11",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $13$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.65,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $13/20$."
+  },
+  {
+    "id": "psda-prob-12",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $7$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.12,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $7/60$."
+  },
+  {
+    "id": "psda-prob-13",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $8$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $8/40$."
+  },
+  {
+    "id": "psda-prob-14",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $7$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.28,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $7/25$."
+  },
+  {
+    "id": "psda-prob-15",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.56,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $14/25$."
+  },
+  {
+    "id": "psda-prob-16",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $16$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.27,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $16/60$."
+  },
+  {
+    "id": "psda-prob-17",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $30$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.37,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/30$."
+  },
+  {
+    "id": "psda-prob-18",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.44,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/25$."
+  },
+  {
+    "id": "psda-prob-19",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $5$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.12,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $5/40$."
+  },
+  {
+    "id": "psda-prob-20",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $5$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $5/20$."
+  },
+  {
+    "id": "psda-prob-21",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $17$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.34,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $17/50$."
+  },
+  {
+    "id": "psda-prob-22",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $25$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $25/40$."
+  },
+  {
+    "id": "psda-prob-23",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $12$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.24,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $12/50$."
+  },
+  {
+    "id": "psda-prob-24",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.23,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $14/60$."
+  },
+  {
+    "id": "psda-prob-25",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $35$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.58,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $35/60$."
+  },
+  {
+    "id": "psda-prob-26",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $34$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.57,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $34/60$."
+  },
+  {
+    "id": "psda-prob-27",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $46$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.92,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $46/50$."
+  },
+  {
+    "id": "psda-prob-28",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $19$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $19/50$."
+  },
+  {
+    "id": "psda-prob-29",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $10$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $10/20$."
+  }
+]

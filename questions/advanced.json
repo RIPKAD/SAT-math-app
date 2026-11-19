@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "adv-quad-0",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-1",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -42 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-2",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 12 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-2)=0$."
+  },
+  {
+    "id": "adv-quad-3",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -3x + 2 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-4",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-0)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-5",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-6",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-7",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--2)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-8",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-9",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -13x + 42 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-10",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 3x + -18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-11",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-12",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x--3)=0$."
+  },
+  {
+    "id": "adv-quad-13",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 5x + -14 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-14",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 20 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-4)(x-5)=0$."
+  },
+  {
+    "id": "adv-quad-15",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 4x + 3 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--3)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-16",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -12x + 35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-5)=0$."
+  },
+  {
+    "id": "adv-quad-17",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-18",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -3 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-19",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 9x + 18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x--3)=0$."
+  },
+  {
+    "id": "adv-quad-20",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-21",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-22",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 3x + -4 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-23",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -30 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-24",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x--2)=0$."
+  },
+  {
+    "id": "adv-quad-25",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-26",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 5x + -6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-27",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -15x + 56 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-8)=0$."
+  },
+  {
+    "id": "adv-quad-28",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x-0)=0$."
+  },
+  {
+    "id": "adv-quad-29",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-30",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-31",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 7x + 10 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--2)(x--5)=0$."
+  },
+  {
+    "id": "adv-quad-32",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -7x + 12 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-33",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-0)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-34",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 3x + -28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-35",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-36",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 2x + -24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-37",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-38",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 5x + 4 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-39",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -12x + 35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-40",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -3x + -18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--3)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-41",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 1x + -2 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x--2)=0$."
+  },
+  {
+    "id": "adv-quad-42",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -49 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-43",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -25 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x--5)=0$."
+  },
+  {
+    "id": "adv-quad-44",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -6x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-0)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-45",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 7x + 6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-46",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 14 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-2)=0$."
+  },
+  {
+    "id": "adv-quad-47",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -6x + 5 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x-5)=0$."
+  },
+  {
+    "id": "adv-quad-48",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 9x + 20 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-49",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 10x + 24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x--6)=0$."
+  },
+  {
+    "id": "adv-quad-50",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-51",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-52",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -4x + 3 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-53",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--3)(x--5)=0$."
+  },
+  {
+    "id": "adv-quad-54",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 4x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x-0)=0$."
+  },
+  {
+    "id": "adv-quad-55",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -4 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x--2)=0$."
+  },
+  {
+    "id": "adv-quad-56",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -6x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-0)=0$."
+  },
+  {
+    "id": "adv-quad-57",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -42 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x--6)=0$."
+  },
+  {
+    "id": "adv-quad-58",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-59",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -1 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--1)(x-1)=0$."
+  },
+  {
+    "id": "adv-exp-0",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{5} = 32$."
+  },
+  {
+    "id": "adv-exp-1",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 4$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{2} = 4$."
+  },
+  {
+    "id": "adv-exp-2",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-3",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-4",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-5",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{2} = 25$."
+  },
+  {
+    "id": "adv-exp-6",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{5} = 32$."
+  },
+  {
+    "id": "adv-exp-7",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 4$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{2} = 4$."
+  },
+  {
+    "id": "adv-exp-8",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{2} = 16$."
+  },
+  {
+    "id": "adv-exp-9",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-10",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 625$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{4} = 625$."
+  },
+  {
+    "id": "adv-exp-11",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 243$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{5} = 243$."
+  },
+  {
+    "id": "adv-exp-12",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 125$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{3} = 125$."
+  },
+  {
+    "id": "adv-exp-13",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 15625$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{6} = 15625$."
+  },
+  {
+    "id": "adv-exp-14",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-15",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 4096$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{6} = 4096$."
+  },
+  {
+    "id": "adv-exp-16",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{4} = 16$."
+  },
+  {
+    "id": "adv-exp-17",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{2} = 25$."
+  },
+  {
+    "id": "adv-exp-18",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 243$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{5} = 243$."
+  },
+  {
+    "id": "adv-exp-19",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 4096$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{6} = 4096$."
+  },
+  {
+    "id": "adv-exp-20",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 81$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{4} = 81$."
+  },
+  {
+    "id": "adv-exp-21",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-22",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 15625$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{6} = 15625$."
+  },
+  {
+    "id": "adv-exp-23",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{5} = 32$."
+  },
+  {
+    "id": "adv-exp-24",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 3125$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{5} = 3125$."
+  },
+  {
+    "id": "adv-exp-25",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 4096$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{6} = 4096$."
+  },
+  {
+    "id": "adv-exp-26",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 81$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{4} = 81$."
+  },
+  {
+    "id": "adv-exp-27",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 8$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{3} = 8$."
+  },
+  {
+    "id": "adv-exp-28",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 625$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{4} = 625$."
+  },
+  {
+    "id": "adv-exp-29",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{3} = 64$."
+  },
+  {
+    "id": "adv-exp-30",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-31",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-32",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{4} = 16$."
+  },
+  {
+    "id": "adv-exp-33",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 256$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{4} = 256$."
+  },
+  {
+    "id": "adv-exp-34",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 15625$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{6} = 15625$."
+  },
+  {
+    "id": "adv-exp-35",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{4} = 16$."
+  },
+  {
+    "id": "adv-exp-36",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{2} = 25$."
+  },
+  {
+    "id": "adv-exp-37",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 3125$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{5} = 3125$."
+  },
+  {
+    "id": "adv-exp-38",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-39",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{3} = 64$."
+  },
+  {
+    "id": "adv-qfunc-0",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 4x + -5$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-1",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -2x + 4$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-2",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -4x + 12$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 67,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-3",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + 7x + -5$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 105,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-4",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 2x + -4$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-5",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -6x + 0$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 45,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-6",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -4x + -4$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-7",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -1x + 12$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-8",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-9",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-10",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + 0x + 7$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 34,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-11",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 5x + -8$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 42,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-12",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + 7x + 6$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 98,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-13",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -6x + -6$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 39,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-14",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -1x + 2$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-15",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + 8x + -7$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-16",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -3x + 4$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 48,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-17",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -6x + 11$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-18",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -2x + 4$, what is $f(1)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-19",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + 1x + -10$, what is $f(-1)$?",
+    "response": {
+      "type": "spr",
+      "answer": -7,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-20",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -2x + 0$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 24,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-21",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + 5x + 2$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 44,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-22",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + 4x + 2$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-23",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -5x + -3$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -9,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-24",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 2x + 5$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-25",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -5x + -3$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 41,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-26",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -2x + 5$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-27",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 8x + 8$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 73,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-28",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -1x + -9$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 61,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-29",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -1x + -3$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 21,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-rad-0",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{90}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{90} = 3\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-1",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{294}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{294} = 7\\sqrt{6}$."
+  },
+  {
+    "id": "adv-rad-2",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{32}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{32} = 4\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-3",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{90}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{90} = 3\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-4",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{490}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{490} = 7\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-5",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-6",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{63}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{63} = 3\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-7",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-8",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{108}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{108} = 6\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-9",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{50}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{50} = 5\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-10",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{75}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{75} = 5\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-11",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{24}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{24} = 2\\sqrt{6}$."
+  },
+  {
+    "id": "adv-rad-12",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{18}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{18} = 3\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-13",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{12}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{12} = 2\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-14",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{98}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{98} = 7\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-15",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-16",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{48}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{48} = 4\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-17",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{20}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{20} = 2\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-18",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{150}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{150} = 5\\sqrt{6}$."
+  },
+  {
+    "id": "adv-rad-19",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{490}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{490} = 7\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-20",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{343}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{343} = 7\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-21",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{252}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{252} = 6\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-22",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{112}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{112} = 4\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-23",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{72}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{72} = 6\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-24",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{180}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{180} = 6\\sqrt{5}$."
+  }
+]

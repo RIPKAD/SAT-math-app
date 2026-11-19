@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "alg-lin-0",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 5 = 10$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 5, then divide by 2."
+  },
+  {
+    "id": "alg-lin-1",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 5 = 11$.",
+    "response": {
+      "type": "spr",
+      "answer": 0.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 5, then divide by 8."
+  },
+  {
+    "id": "alg-lin-2",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 12 = 39$.",
+    "response": {
+      "type": "spr",
+      "answer": 13.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 2."
+  },
+  {
+    "id": "alg-lin-3",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 9 = 8$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 7."
+  },
+  {
+    "id": "alg-lin-4",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + -4 = 26$.",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -4, then divide by 4."
+  },
+  {
+    "id": "alg-lin-5",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 3 = 15$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 3, then divide by 7."
+  },
+  {
+    "id": "alg-lin-6",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 15 = 10$.",
+    "response": {
+      "type": "spr",
+      "answer": -2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 2."
+  },
+  {
+    "id": "alg-lin-7",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -8 = 5$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -8, then divide by 8."
+  },
+  {
+    "id": "alg-lin-8",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 16 = 11$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 16, then divide by 7."
+  },
+  {
+    "id": "alg-lin-9",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -7 = 47$.",
+    "response": {
+      "type": "spr",
+      "answer": 27,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 2."
+  },
+  {
+    "id": "alg-lin-10",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + -4 = 6$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -4, then divide by 4."
+  },
+  {
+    "id": "alg-lin-11",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 15 = 41$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 6."
+  },
+  {
+    "id": "alg-lin-12",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 4 = 35$.",
+    "response": {
+      "type": "spr",
+      "answer": 3.44,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 4, then divide by 9."
+  },
+  {
+    "id": "alg-lin-13",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 7 = 26$.",
+    "response": {
+      "type": "spr",
+      "answer": 9.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 7, then divide by 2."
+  },
+  {
+    "id": "alg-lin-14",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 1 = 43$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 1, then divide by 9."
+  },
+  {
+    "id": "alg-lin-15",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + -12 = 30$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -12, then divide by 7."
+  },
+  {
+    "id": "alg-lin-16",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 19 = 38$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 19, then divide by 8."
+  },
+  {
+    "id": "alg-lin-17",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 11 = 37$.",
+    "response": {
+      "type": "spr",
+      "answer": 3.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 11, then divide by 8."
+  },
+  {
+    "id": "alg-lin-18",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -1 = 10$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -1, then divide by 2."
+  },
+  {
+    "id": "alg-lin-19",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 4 = 15$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.22,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 4, then divide by 9."
+  },
+  {
+    "id": "alg-lin-20",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 9 = 40$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.43,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 7."
+  },
+  {
+    "id": "alg-lin-21",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -8 = 34$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -8, then divide by 8."
+  },
+  {
+    "id": "alg-lin-22",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 9 = 6$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 8."
+  },
+  {
+    "id": "alg-lin-23",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + -7 = 45$.",
+    "response": {
+      "type": "spr",
+      "answer": 10.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 5."
+  },
+  {
+    "id": "alg-lin-24",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + -12 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.57,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -12, then divide by 7."
+  },
+  {
+    "id": "alg-lin-25",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + 13 = 39$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 13, then divide by 5."
+  },
+  {
+    "id": "alg-lin-26",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 6 = 36$.",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 6, then divide by 2."
+  },
+  {
+    "id": "alg-lin-27",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + 18 = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 18, then divide by 5."
+  },
+  {
+    "id": "alg-lin-28",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 16 = 29$.",
+    "response": {
+      "type": "spr",
+      "answer": 3.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 16, then divide by 4."
+  },
+  {
+    "id": "alg-lin-29",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + -10 = 5$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -10, then divide by 9."
+  },
+  {
+    "id": "alg-lin-30",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 17 = 17$.",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 17, then divide by 4."
+  },
+  {
+    "id": "alg-lin-31",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 4 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 11.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 4, then divide by 2."
+  },
+  {
+    "id": "alg-lin-32",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 15 = 45$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 6."
+  },
+  {
+    "id": "alg-lin-33",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -12 = 11$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.88,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -12, then divide by 8."
+  },
+  {
+    "id": "alg-lin-34",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + 20 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 20, then divide by 3."
+  },
+  {
+    "id": "alg-lin-35",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + -7 = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 3."
+  },
+  {
+    "id": "alg-lin-36",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 12 = 9$.",
+    "response": {
+      "type": "spr",
+      "answer": -1.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 2."
+  },
+  {
+    "id": "alg-lin-37",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -11 = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -11, then divide by 8."
+  },
+  {
+    "id": "alg-lin-38",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 18 = 7$.",
+    "response": {
+      "type": "spr",
+      "answer": -1.83,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 18, then divide by 6."
+  },
+  {
+    "id": "alg-lin-39",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 14 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 14, then divide by 7."
+  },
+  {
+    "id": "alg-lin-40",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -2 = 31$.",
+    "response": {
+      "type": "spr",
+      "answer": 16.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -2, then divide by 2."
+  },
+  {
+    "id": "alg-lin-41",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + -3 = 28$.",
+    "response": {
+      "type": "spr",
+      "answer": 10.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -3, then divide by 3."
+  },
+  {
+    "id": "alg-lin-42",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + -7 = 45$.",
+    "response": {
+      "type": "spr",
+      "answer": 10.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 5."
+  },
+  {
+    "id": "alg-lin-43",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 12 = 39$.",
+    "response": {
+      "type": "spr",
+      "answer": 13.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 2."
+  },
+  {
+    "id": "alg-lin-44",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + -3 = 46$.",
+    "response": {
+      "type": "spr",
+      "answer": 8.17,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -3, then divide by 6."
+  },
+  {
+    "id": "alg-lin-45",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 12 = 28$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 6."
+  },
+  {
+    "id": "alg-lin-46",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 9 = 38$.",
+    "response": {
+      "type": "spr",
+      "answer": 7.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 4."
+  },
+  {
+    "id": "alg-lin-47",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + -2 = 42$.",
+    "response": {
+      "type": "spr",
+      "answer": 14.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -2, then divide by 3."
+  },
+  {
+    "id": "alg-lin-48",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 15 = 8$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.88,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 8."
+  },
+  {
+    "id": "alg-lin-49",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 17 = 47$.",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 17, then divide by 4."
+  },
+  {
+    "id": "alg-lin-50",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 10 = 33$.",
+    "response": {
+      "type": "spr",
+      "answer": 11.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 10, then divide by 2."
+  },
+  {
+    "id": "alg-lin-51",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 7 = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.78,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 7, then divide by 9."
+  },
+  {
+    "id": "alg-lin-52",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -2 = 38$.",
+    "response": {
+      "type": "spr",
+      "answer": 20,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -2, then divide by 2."
+  },
+  {
+    "id": "alg-lin-53",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 20 = 40$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 20, then divide by 7."
+  },
+  {
+    "id": "alg-lin-54",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 9 = 37$.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 4."
+  },
+  {
+    "id": "alg-lin-55",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + 11 = 19$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 11, then divide by 3."
+  },
+  {
+    "id": "alg-lin-56",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + -7 = 22$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 7."
+  },
+  {
+    "id": "alg-lin-57",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + 1 = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.8,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 1, then divide by 5."
+  },
+  {
+    "id": "alg-lin-58",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 13 = 7$.",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 13, then divide by 6."
+  },
+  {
+    "id": "alg-lin-59",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + 0 = 37$.",
+    "response": {
+      "type": "spr",
+      "answer": 12.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 0, then divide by 3."
+  },
+  {
+    "id": "alg-slope-0",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-5, -6)$ and $(-3, -6)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-1",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 1)$ and $(2, 12)$?",
+    "response": {
+      "type": "spr",
+      "answer": 11.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-2",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-3, -4)$ and $(0, 5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-3",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(0, -2)$ and $(7, 7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.29,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-4",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-6, 9)$ and $(-2, 13)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-5",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(4, -6)$ and $(7, 4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-6",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 9)$ and $(8, 13)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-7",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(6, 1)$ and $(13, 9)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-8",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(6, -2)$ and $(11, 10)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-9",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-8, 9)$ and $(-5, 19)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-10",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-7, -5)$ and $(-4, 1)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-11",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-3, 7)$ and $(0, 10)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-12",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-5, 8)$ and $(-2, 6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -0.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-13",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, -1)$ and $(9, -8)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-14",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 7)$ and $(9, 15)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-15",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-4, -1)$ and $(3, 8)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.29,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-16",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-2, 5)$ and $(-1, 6)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-17",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-7, 2)$ and $(-2, 13)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-18",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-3, -5)$ and $(1, -12)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-19",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 6)$ and $(4, 1)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-20",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, 4)$ and $(1, 16)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-21",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, 2)$ and $(6, 8)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-22",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 5)$ and $(3, 11)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-23",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(0, 2)$ and $(3, -5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -2.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-24",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-6, -3)$ and $(-5, 2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-25",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(2, 9)$ and $(8, 5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -0.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-26",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, -5)$ and $(3, 4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-27",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-6, 4)$ and $(1, 7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.43,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-28",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(6, 1)$ and $(11, -6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-29",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, 10)$ and $(4, 11)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-30",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(3, -6)$ and $(6, -2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-31",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-5, -4)$ and $(2, -4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-32",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-4, -1)$ and $(0, 2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-33",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-2, -5)$ and $(3, -13)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-34",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, -1)$ and $(1, -8)$?",
+    "response": {
+      "type": "spr",
+      "answer": -3.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-35",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-4, 10)$ and $(-2, 18)$?",
+    "response": {
+      "type": "spr",
+      "answer": 4.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-36",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 0)$ and $(8, 7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-37",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 8)$ and $(7, 9)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-38",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(0, -4)$ and $(1, 2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-39",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 2)$ and $(8, 0)$?",
+    "response": {
+      "type": "spr",
+      "answer": -0.29,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-sys-0",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 4y = -8$ and $4x + 1y = 7$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=3$, $y=-5$."
+  },
+  {
+    "id": "alg-sys-1",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 4y = -8$ and $5x + 3y = -16$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=3$."
+  },
+  {
+    "id": "alg-sys-2",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 2y = -4$ and $2x + 2y = -4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-3$, $y=1$."
+  },
+  {
+    "id": "alg-sys-3",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 1y = -13$ and $4x + 1y = -23$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=-3$."
+  },
+  {
+    "id": "alg-sys-4",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $3x + 5y = -15$ and $1x + 1y = -5$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=0$."
+  },
+  {
+    "id": "alg-sys-5",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 3y = 7$ and $2x + 3y = 11$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-2$, $y=5$."
+  },
+  {
+    "id": "alg-sys-6",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $3x + 2y = -16$ and $5x + 1y = -22$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-4$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-7",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 4y = 8$ and $2x + 4y = 8$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=6$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-8",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 4y = 0$ and $5x + 2y = -6$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-2$, $y=2$."
+  },
+  {
+    "id": "alg-sys-9",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = -1$ and $3x + 2y = -7$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=1$, $y=-5$."
+  },
+  {
+    "id": "alg-sys-10",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 2y = 12$ and $1x + 4y = 22$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=2$, $y=5$."
+  },
+  {
+    "id": "alg-sys-11",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $5x + 1y = 2$ and $4x + 5y = 10$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=2$."
+  },
+  {
+    "id": "alg-sys-12",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $3x + 2y = -4$ and $4x + 1y = -2$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-13",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 5y = 6$ and $6x + 3y = -18$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-4$, $y=2$."
+  },
+  {
+    "id": "alg-sys-14",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 4y = -8$ and $2x + 4y = -8$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=6$, $y=-5$."
+  },
+  {
+    "id": "alg-sys-15",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 1y = -5$ and $2x + 1y = -5$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-3$, $y=1$."
+  },
+  {
+    "id": "alg-sys-16",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 2y = -12$ and $2x + 4y = -24$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=-6$."
+  },
+  {
+    "id": "alg-sys-17",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = 1$ and $1x + 2y = -5$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=1$, $y=-3$."
+  },
+  {
+    "id": "alg-sys-18",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 2y = -2$ and $6x + 1y = -23$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-4$, $y=1$."
+  },
+  {
+    "id": "alg-sys-19",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 2y = 2$ and $2x + 4y = 4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=1$."
+  },
+  {
+    "id": "alg-sys-20",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 1y = 4$ and $6x + 1y = 4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=4$."
+  },
+  {
+    "id": "alg-sys-21",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 3y = -7$ and $2x + 1y = -3$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-1$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-22",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 1y = -3$ and $2x + 3y = -4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=2$."
+  },
+  {
+    "id": "alg-sys-23",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $5x + 1y = -14$ and $5x + 6y = -34$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-2$, $y=-4$."
+  },
+  {
+    "id": "alg-sys-24",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 5y = 2$ and $3x + 3y = 3$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=3$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-25",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = 16$ and $5x + 3y = 13$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=5$, $y=-4$."
+  },
+  {
+    "id": "alg-sys-26",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 3y = -3$ and $5x + 1y = -1$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-27",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 4y = -3$ and $6x + 2y = 26$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=5$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-28",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = 15$ and $6x + 5y = 19$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=4$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-29",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 4y = 20$ and $6x + 6y = 48$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=6$, $y=2$."
+  },
+  {
+    "id": "alg-func-0",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -4$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-1",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 1.5x + 1$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-2",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 4x + -1$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-3",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 5x + 7$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": -13,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-4",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + -10$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-5",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 1.5x + -10$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-6",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -0.5x + 11$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-7",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -1x + 1$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-8",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -6$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -21,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-9",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 0.5x + -7$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -8,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-10",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -8$, what is $f(-1)$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-11",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -5x + -2$, what is $f(-1)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-12",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -2x + -2$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-13",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 9$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-14",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 5x + 7$, what is $f(7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 42,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-15",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 11$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-16",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 0$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-17",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -0.5x + 11$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-18",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 4x + -3$, what is $f(-6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -27,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-19",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -7$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-20",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 4$, what is $f(7)$?",
+    "response": {
+      "type": "spr",
+      "answer": -17,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-21",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + 1$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-22",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -2x + -6$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": -6,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-23",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -5x + 3$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-24",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -1x + -10$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-25",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + -6$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-26",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -5$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -11,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-27",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 1x + 3$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-28",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + -1$, what is $f(-5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-29",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -5x + -7$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -37,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  }
+]

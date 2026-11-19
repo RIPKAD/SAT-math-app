@@ -1,0 +1,1862 @@
+[
+  {
+    "id": "geom-pyth-0",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-1",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-2",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-3",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-4",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-5",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "$6^2 + 8^2 = 10^2$."
+  },
+  {
+    "id": "geom-pyth-6",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-7",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-8",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "$6^2 + 8^2 = 10^2$."
+  },
+  {
+    "id": "geom-pyth-9",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-10",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-11",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-12",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "$6^2 + 8^2 = 10^2$."
+  },
+  {
+    "id": "geom-pyth-13",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-14",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-15",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-16",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-17",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-18",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-19",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^2 + 4^2 = 5^2$."
+  },
+  {
+    "id": "geom-pyth-20",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-21",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-22",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-23",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-24",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-25",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-26",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^2 + 4^2 = 5^2$."
+  },
+  {
+    "id": "geom-pyth-27",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-28",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-29",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-30",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $40$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 41,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 40^2 = 41^2$."
+  },
+  {
+    "id": "geom-pyth-31",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-32",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-33",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-34",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-35",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-36",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $40$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 41,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 40^2 = 41^2$."
+  },
+  {
+    "id": "geom-pyth-37",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-38",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^2 + 4^2 = 5^2$."
+  },
+  {
+    "id": "geom-pyth-39",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-circ-0",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 196,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 196\\pi$."
+  },
+  {
+    "id": "geom-circ-1",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 196,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 196\\pi$."
+  },
+  {
+    "id": "geom-circ-2",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $2$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 4\\pi$."
+  },
+  {
+    "id": "geom-circ-3",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-4",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 9\\pi$."
+  },
+  {
+    "id": "geom-circ-5",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 9\\pi$."
+  },
+  {
+    "id": "geom-circ-6",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $9$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 81,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 81\\pi$."
+  },
+  {
+    "id": "geom-circ-7",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $8$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 64,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 64\\pi$."
+  },
+  {
+    "id": "geom-circ-8",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $5$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 25\\pi$."
+  },
+  {
+    "id": "geom-circ-9",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 100\\pi$."
+  },
+  {
+    "id": "geom-circ-10",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-11",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-12",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 100\\pi$."
+  },
+  {
+    "id": "geom-circ-13",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-14",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-15",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $2$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 4\\pi$."
+  },
+  {
+    "id": "geom-circ-16",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 100\\pi$."
+  },
+  {
+    "id": "geom-circ-17",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-18",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $12$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 144\\pi$."
+  },
+  {
+    "id": "geom-circ-19",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $5$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 25\\pi$."
+  },
+  {
+    "id": "geom-circ-20",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $7$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 49,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 49\\pi$."
+  },
+  {
+    "id": "geom-circ-21",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-22",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 16\\pi$."
+  },
+  {
+    "id": "geom-circ-23",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 16\\pi$."
+  },
+  {
+    "id": "geom-circ-24",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-25",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-26",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 121\\pi$."
+  },
+  {
+    "id": "geom-circ-27",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 16\\pi$."
+  },
+  {
+    "id": "geom-circ-28",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 121\\pi$."
+  },
+  {
+    "id": "geom-circ-29",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-30",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 121\\pi$."
+  },
+  {
+    "id": "geom-circ-31",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $12$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 144\\pi$."
+  },
+  {
+    "id": "geom-circ-32",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-33",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $6$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 36,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 36\\pi$."
+  },
+  {
+    "id": "geom-circ-34",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-vol-0",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 3 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 162,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-1",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $2 \\times 3 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 36,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-2",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $10 \\times 3 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 180,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-3",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 9 \\times 7$?",
+    "response": {
+      "type": "spr",
+      "answer": 504,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-4",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 4 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 108,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-5",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 10 \\times 11$?",
+    "response": {
+      "type": "spr",
+      "answer": 440,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-6",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 10 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 600,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-7",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $7 \\times 9 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 756,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-8",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 4 \\times 5$?",
+    "response": {
+      "type": "spr",
+      "answer": 120,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-9",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 9 \\times 7$?",
+    "response": {
+      "type": "spr",
+      "answer": 315,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-10",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 3 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 81,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-11",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 9 \\times 8$?",
+    "response": {
+      "type": "spr",
+      "answer": 360,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-12",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 8 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 240,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-13",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $7 \\times 10 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 700,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-14",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 10 \\times 11$?",
+    "response": {
+      "type": "spr",
+      "answer": 660,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-15",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $10 \\times 2 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 200,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-16",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 9 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 324,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-17",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 4 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-18",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 4 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 384,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-19",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $9 \\times 3 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 162,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-20",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 5 \\times 3$?",
+    "response": {
+      "type": "spr",
+      "answer": 60,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-21",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 6 \\times 7$?",
+    "response": {
+      "type": "spr",
+      "answer": 126,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-22",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 7 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 336,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-23",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 6 \\times 3$?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-24",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 2 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-25",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 7 \\times 8$?",
+    "response": {
+      "type": "spr",
+      "answer": 448,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-26",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $2 \\times 6 \\times 5$?",
+    "response": {
+      "type": "spr",
+      "answer": 60,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-27",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 9 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 648,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-28",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $10 \\times 5 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 450,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-29",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 5 \\times 5$?",
+    "response": {
+      "type": "spr",
+      "answer": 75,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-3060-0",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-1",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $10$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 20,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-2",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-3",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-4",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $7$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-5",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-6",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-7",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $3$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-8",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-9",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $7$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-10",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $5$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-11",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-12",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $9$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-13",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-14",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $2$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-15",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-16",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $10$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 20,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-17",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $2$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-18",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $5$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-19",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $9$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-20",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-21",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-22",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-23",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-24",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-tri-0",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $16$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 24.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-1",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $15$ and height $6$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-2",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $11$ and height $6$?",
+    "response": {
+      "type": "spr",
+      "answer": 33.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-3",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $4$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-4",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $9$ and height $7$?",
+    "response": {
+      "type": "spr",
+      "answer": 31.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-5",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $9$?",
+    "response": {
+      "type": "spr",
+      "answer": 27.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-6",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $15$ and height $13$?",
+    "response": {
+      "type": "spr",
+      "answer": 97.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-7",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $13$ and height $4$?",
+    "response": {
+      "type": "spr",
+      "answer": 26.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-8",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $7$ and height $10$?",
+    "response": {
+      "type": "spr",
+      "answer": 35.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-9",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 9.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-10",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $5$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-11",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $5$ and height $5$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-12",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $11$?",
+    "response": {
+      "type": "spr",
+      "answer": 33.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-13",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $11$?",
+    "response": {
+      "type": "spr",
+      "answer": 66.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-14",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 18.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-15",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $4$ and height $4$?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-16",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $7$ and height $10$?",
+    "response": {
+      "type": "spr",
+      "answer": 35.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-17",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $11$ and height $13$?",
+    "response": {
+      "type": "spr",
+      "answer": 71.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-18",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $16$ and height $11$?",
+    "response": {
+      "type": "spr",
+      "answer": 88.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-19",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $8$?",
+    "response": {
+      "type": "spr",
+      "answer": 48.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-20",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $14$?",
+    "response": {
+      "type": "spr",
+      "answer": 42.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-21",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $10$ and height $10$?",
+    "response": {
+      "type": "spr",
+      "answer": 50.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-22",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $5$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-23",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $15$ and height $12$?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-24",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $8$ and height $6$?",
+    "response": {
+      "type": "spr",
+      "answer": 24.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  }
+]

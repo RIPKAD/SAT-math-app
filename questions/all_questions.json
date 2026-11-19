@@ -1,0 +1,7442 @@
+[
+  {
+    "id": "alg-lin-0",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 5 = 10$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 5, then divide by 2."
+  },
+  {
+    "id": "alg-lin-1",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 5 = 11$.",
+    "response": {
+      "type": "spr",
+      "answer": 0.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 5, then divide by 8."
+  },
+  {
+    "id": "alg-lin-2",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 12 = 39$.",
+    "response": {
+      "type": "spr",
+      "answer": 13.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 2."
+  },
+  {
+    "id": "alg-lin-3",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 9 = 8$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 7."
+  },
+  {
+    "id": "alg-lin-4",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + -4 = 26$.",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -4, then divide by 4."
+  },
+  {
+    "id": "alg-lin-5",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 3 = 15$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 3, then divide by 7."
+  },
+  {
+    "id": "alg-lin-6",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 15 = 10$.",
+    "response": {
+      "type": "spr",
+      "answer": -2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 2."
+  },
+  {
+    "id": "alg-lin-7",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -8 = 5$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -8, then divide by 8."
+  },
+  {
+    "id": "alg-lin-8",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 16 = 11$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 16, then divide by 7."
+  },
+  {
+    "id": "alg-lin-9",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -7 = 47$.",
+    "response": {
+      "type": "spr",
+      "answer": 27,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 2."
+  },
+  {
+    "id": "alg-lin-10",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + -4 = 6$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -4, then divide by 4."
+  },
+  {
+    "id": "alg-lin-11",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 15 = 41$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 6."
+  },
+  {
+    "id": "alg-lin-12",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 4 = 35$.",
+    "response": {
+      "type": "spr",
+      "answer": 3.44,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 4, then divide by 9."
+  },
+  {
+    "id": "alg-lin-13",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 7 = 26$.",
+    "response": {
+      "type": "spr",
+      "answer": 9.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 7, then divide by 2."
+  },
+  {
+    "id": "alg-lin-14",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 1 = 43$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 1, then divide by 9."
+  },
+  {
+    "id": "alg-lin-15",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + -12 = 30$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -12, then divide by 7."
+  },
+  {
+    "id": "alg-lin-16",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 19 = 38$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 19, then divide by 8."
+  },
+  {
+    "id": "alg-lin-17",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 11 = 37$.",
+    "response": {
+      "type": "spr",
+      "answer": 3.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 11, then divide by 8."
+  },
+  {
+    "id": "alg-lin-18",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -1 = 10$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -1, then divide by 2."
+  },
+  {
+    "id": "alg-lin-19",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 4 = 15$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.22,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 4, then divide by 9."
+  },
+  {
+    "id": "alg-lin-20",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 9 = 40$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.43,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 7."
+  },
+  {
+    "id": "alg-lin-21",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -8 = 34$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -8, then divide by 8."
+  },
+  {
+    "id": "alg-lin-22",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 9 = 6$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 8."
+  },
+  {
+    "id": "alg-lin-23",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + -7 = 45$.",
+    "response": {
+      "type": "spr",
+      "answer": 10.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 5."
+  },
+  {
+    "id": "alg-lin-24",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + -12 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.57,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -12, then divide by 7."
+  },
+  {
+    "id": "alg-lin-25",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + 13 = 39$.",
+    "response": {
+      "type": "spr",
+      "answer": 5.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 13, then divide by 5."
+  },
+  {
+    "id": "alg-lin-26",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 6 = 36$.",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 6, then divide by 2."
+  },
+  {
+    "id": "alg-lin-27",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + 18 = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 18, then divide by 5."
+  },
+  {
+    "id": "alg-lin-28",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 16 = 29$.",
+    "response": {
+      "type": "spr",
+      "answer": 3.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 16, then divide by 4."
+  },
+  {
+    "id": "alg-lin-29",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + -10 = 5$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -10, then divide by 9."
+  },
+  {
+    "id": "alg-lin-30",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 17 = 17$.",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 17, then divide by 4."
+  },
+  {
+    "id": "alg-lin-31",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 4 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 11.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 4, then divide by 2."
+  },
+  {
+    "id": "alg-lin-32",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 15 = 45$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 6."
+  },
+  {
+    "id": "alg-lin-33",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -12 = 11$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.88,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -12, then divide by 8."
+  },
+  {
+    "id": "alg-lin-34",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + 20 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 20, then divide by 3."
+  },
+  {
+    "id": "alg-lin-35",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + -7 = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 3."
+  },
+  {
+    "id": "alg-lin-36",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 12 = 9$.",
+    "response": {
+      "type": "spr",
+      "answer": -1.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 2."
+  },
+  {
+    "id": "alg-lin-37",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + -11 = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -11, then divide by 8."
+  },
+  {
+    "id": "alg-lin-38",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 18 = 7$.",
+    "response": {
+      "type": "spr",
+      "answer": -1.83,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 18, then divide by 6."
+  },
+  {
+    "id": "alg-lin-39",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 14 = 27$.",
+    "response": {
+      "type": "spr",
+      "answer": 1.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 14, then divide by 7."
+  },
+  {
+    "id": "alg-lin-40",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -2 = 31$.",
+    "response": {
+      "type": "spr",
+      "answer": 16.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -2, then divide by 2."
+  },
+  {
+    "id": "alg-lin-41",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + -3 = 28$.",
+    "response": {
+      "type": "spr",
+      "answer": 10.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -3, then divide by 3."
+  },
+  {
+    "id": "alg-lin-42",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + -7 = 45$.",
+    "response": {
+      "type": "spr",
+      "answer": 10.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 5."
+  },
+  {
+    "id": "alg-lin-43",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 12 = 39$.",
+    "response": {
+      "type": "spr",
+      "answer": 13.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 2."
+  },
+  {
+    "id": "alg-lin-44",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + -3 = 46$.",
+    "response": {
+      "type": "spr",
+      "answer": 8.17,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -3, then divide by 6."
+  },
+  {
+    "id": "alg-lin-45",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 12 = 28$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 12, then divide by 6."
+  },
+  {
+    "id": "alg-lin-46",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 9 = 38$.",
+    "response": {
+      "type": "spr",
+      "answer": 7.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 4."
+  },
+  {
+    "id": "alg-lin-47",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + -2 = 42$.",
+    "response": {
+      "type": "spr",
+      "answer": 14.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -2, then divide by 3."
+  },
+  {
+    "id": "alg-lin-48",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $8x + 15 = 8$.",
+    "response": {
+      "type": "spr",
+      "answer": -0.88,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 15, then divide by 8."
+  },
+  {
+    "id": "alg-lin-49",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 17 = 47$.",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 17, then divide by 4."
+  },
+  {
+    "id": "alg-lin-50",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + 10 = 33$.",
+    "response": {
+      "type": "spr",
+      "answer": 11.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 10, then divide by 2."
+  },
+  {
+    "id": "alg-lin-51",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $9x + 7 = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.78,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 7, then divide by 9."
+  },
+  {
+    "id": "alg-lin-52",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $2x + -2 = 38$.",
+    "response": {
+      "type": "spr",
+      "answer": 20,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -2, then divide by 2."
+  },
+  {
+    "id": "alg-lin-53",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + 20 = 40$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 20, then divide by 7."
+  },
+  {
+    "id": "alg-lin-54",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $4x + 9 = 37$.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 9, then divide by 4."
+  },
+  {
+    "id": "alg-lin-55",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + 11 = 19$.",
+    "response": {
+      "type": "spr",
+      "answer": 2.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 11, then divide by 3."
+  },
+  {
+    "id": "alg-lin-56",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $7x + -7 = 22$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract -7, then divide by 7."
+  },
+  {
+    "id": "alg-lin-57",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $5x + 1 = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 4.8,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 1, then divide by 5."
+  },
+  {
+    "id": "alg-lin-58",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $6x + 13 = 7$.",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 13, then divide by 6."
+  },
+  {
+    "id": "alg-lin-59",
+    "domain": "algebra",
+    "topic": "Linear equations in one variable",
+    "question": "Solve for $x$: $3x + 0 = 37$.",
+    "response": {
+      "type": "spr",
+      "answer": 12.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Subtract 0, then divide by 3."
+  },
+  {
+    "id": "alg-slope-0",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-5, -6)$ and $(-3, -6)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-1",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 1)$ and $(2, 12)$?",
+    "response": {
+      "type": "spr",
+      "answer": 11.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-2",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-3, -4)$ and $(0, 5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-3",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(0, -2)$ and $(7, 7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.29,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-4",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-6, 9)$ and $(-2, 13)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-5",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(4, -6)$ and $(7, 4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-6",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 9)$ and $(8, 13)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-7",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(6, 1)$ and $(13, 9)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-8",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(6, -2)$ and $(11, 10)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-9",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-8, 9)$ and $(-5, 19)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-10",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-7, -5)$ and $(-4, 1)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-11",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-3, 7)$ and $(0, 10)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-12",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-5, 8)$ and $(-2, 6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -0.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-13",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, -1)$ and $(9, -8)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-14",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 7)$ and $(9, 15)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-15",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-4, -1)$ and $(3, 8)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.29,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-16",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-2, 5)$ and $(-1, 6)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-17",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-7, 2)$ and $(-2, 13)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-18",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-3, -5)$ and $(1, -12)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-19",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 6)$ and $(4, 1)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-20",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, 4)$ and $(1, 16)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-21",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, 2)$ and $(6, 8)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-22",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 5)$ and $(3, 11)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-23",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(0, 2)$ and $(3, -5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -2.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-24",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-6, -3)$ and $(-5, 2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-25",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(2, 9)$ and $(8, 5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -0.67,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-26",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, -5)$ and $(3, 4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-27",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-6, 4)$ and $(1, 7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.43,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-28",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(6, 1)$ and $(11, -6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-29",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, 10)$ and $(4, 11)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-30",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(3, -6)$ and $(6, -2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-31",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-5, -4)$ and $(2, -4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-32",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-4, -1)$ and $(0, 2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.75,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-33",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-2, -5)$ and $(3, -13)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-34",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-1, -1)$ and $(1, -8)$?",
+    "response": {
+      "type": "spr",
+      "answer": -3.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-35",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(-4, 10)$ and $(-2, 18)$?",
+    "response": {
+      "type": "spr",
+      "answer": 4.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-36",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 0)$ and $(8, 7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-37",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(5, 8)$ and $(7, 9)$?",
+    "response": {
+      "type": "spr",
+      "answer": 0.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-38",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(0, -4)$ and $(1, 2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-slope-39",
+    "domain": "algebra",
+    "topic": "Linear functions / slope",
+    "question": "What is the slope of the line through $(1, 2)$ and $(8, 0)$?",
+    "response": {
+      "type": "spr",
+      "answer": -0.29,
+      "tolerance": 0.01
+    },
+    "explanation": "Slope $m = \\dfrac{\\Delta y}{\\Delta x}$."
+  },
+  {
+    "id": "alg-sys-0",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 4y = -8$ and $4x + 1y = 7$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=3$, $y=-5$."
+  },
+  {
+    "id": "alg-sys-1",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 4y = -8$ and $5x + 3y = -16$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=3$."
+  },
+  {
+    "id": "alg-sys-2",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 2y = -4$ and $2x + 2y = -4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-3$, $y=1$."
+  },
+  {
+    "id": "alg-sys-3",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 1y = -13$ and $4x + 1y = -23$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=-3$."
+  },
+  {
+    "id": "alg-sys-4",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $3x + 5y = -15$ and $1x + 1y = -5$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=0$."
+  },
+  {
+    "id": "alg-sys-5",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 3y = 7$ and $2x + 3y = 11$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-2$, $y=5$."
+  },
+  {
+    "id": "alg-sys-6",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $3x + 2y = -16$ and $5x + 1y = -22$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-4$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-7",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 4y = 8$ and $2x + 4y = 8$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=6$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-8",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 4y = 0$ and $5x + 2y = -6$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-2$, $y=2$."
+  },
+  {
+    "id": "alg-sys-9",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = -1$ and $3x + 2y = -7$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=1$, $y=-5$."
+  },
+  {
+    "id": "alg-sys-10",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 2y = 12$ and $1x + 4y = 22$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=2$, $y=5$."
+  },
+  {
+    "id": "alg-sys-11",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $5x + 1y = 2$ and $4x + 5y = 10$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=2$."
+  },
+  {
+    "id": "alg-sys-12",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $3x + 2y = -4$ and $4x + 1y = -2$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-13",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 5y = 6$ and $6x + 3y = -18$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-4$, $y=2$."
+  },
+  {
+    "id": "alg-sys-14",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 4y = -8$ and $2x + 4y = -8$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=6$, $y=-5$."
+  },
+  {
+    "id": "alg-sys-15",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 1y = -5$ and $2x + 1y = -5$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-3$, $y=1$."
+  },
+  {
+    "id": "alg-sys-16",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 2y = -12$ and $2x + 4y = -24$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=-6$."
+  },
+  {
+    "id": "alg-sys-17",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = 1$ and $1x + 2y = -5$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=1$, $y=-3$."
+  },
+  {
+    "id": "alg-sys-18",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 2y = -2$ and $6x + 1y = -23$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-4$, $y=1$."
+  },
+  {
+    "id": "alg-sys-19",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 2y = 2$ and $2x + 4y = 4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=1$."
+  },
+  {
+    "id": "alg-sys-20",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 1y = 4$ and $6x + 1y = 4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=4$."
+  },
+  {
+    "id": "alg-sys-21",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 3y = -7$ and $2x + 1y = -3$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-1$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-22",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 1y = -3$ and $2x + 3y = -4$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-5$, $y=2$."
+  },
+  {
+    "id": "alg-sys-23",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $5x + 1y = -14$ and $5x + 6y = -34$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=-2$, $y=-4$."
+  },
+  {
+    "id": "alg-sys-24",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 5y = 2$ and $3x + 3y = 3$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=3$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-25",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = 16$ and $5x + 3y = 13$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=5$, $y=-4$."
+  },
+  {
+    "id": "alg-sys-26",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 3y = -3$ and $5x + 1y = -1$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=0$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-27",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $1x + 4y = -3$ and $6x + 2y = 26$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=5$, $y=-2$."
+  },
+  {
+    "id": "alg-sys-28",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $4x + 1y = 15$ and $6x + 5y = 19$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=4$, $y=-1$."
+  },
+  {
+    "id": "alg-sys-29",
+    "domain": "algebra",
+    "topic": "Systems of linear equations",
+    "question": "Solve $2x + 4y = 20$ and $6x + 6y = 48$. What is $x$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "The solution is $x=6$, $y=2$."
+  },
+  {
+    "id": "alg-func-0",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -4$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-1",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 1.5x + 1$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-2",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 4x + -1$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-3",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 5x + 7$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": -13,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-4",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + -10$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-5",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 1.5x + -10$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-6",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -0.5x + 11$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-7",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -1x + 1$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-8",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -6$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -21,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-9",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 0.5x + -7$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -8,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-10",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -8$, what is $f(-1)$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-11",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -5x + -2$, what is $f(-1)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-12",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -2x + -2$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-13",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 9$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-14",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 5x + 7$, what is $f(7)$?",
+    "response": {
+      "type": "spr",
+      "answer": 42,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-15",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 11$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-16",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 0$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-17",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -0.5x + 11$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-18",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 4x + -3$, what is $f(-6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -27,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-19",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -7$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-20",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + 4$, what is $f(7)$?",
+    "response": {
+      "type": "spr",
+      "answer": -17,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-21",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + 1$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-22",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -2x + -6$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": -6,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-23",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -5x + 3$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-24",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -1x + -10$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-25",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + -6$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-26",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -3x + -5$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -11,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-27",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 1x + 3$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-28",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = 3x + -1$, what is $f(-5)$?",
+    "response": {
+      "type": "spr",
+      "answer": -16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-func-29",
+    "domain": "algebra",
+    "topic": "Linear functions",
+    "question": "If $f(x) = -5x + -7$, what is $f(6)$?",
+    "response": {
+      "type": "spr",
+      "answer": -37,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "adv-quad-0",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-1",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -42 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-2",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 12 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-2)=0$."
+  },
+  {
+    "id": "adv-quad-3",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -3x + 2 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-4",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-0)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-5",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-6",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-7",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--2)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-8",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-9",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -13x + 42 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-10",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 3x + -18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-11",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-12",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x--3)=0$."
+  },
+  {
+    "id": "adv-quad-13",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 5x + -14 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-14",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 20 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-4)(x-5)=0$."
+  },
+  {
+    "id": "adv-quad-15",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 4x + 3 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--3)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-16",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -12x + 35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-5)=0$."
+  },
+  {
+    "id": "adv-quad-17",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-18",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -3 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-19",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 9x + 18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x--3)=0$."
+  },
+  {
+    "id": "adv-quad-20",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-21",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-22",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 3x + -4 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-23",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -30 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-24",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x--2)=0$."
+  },
+  {
+    "id": "adv-quad-25",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-26",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 5x + -6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-27",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -15x + 56 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-8)=0$."
+  },
+  {
+    "id": "adv-quad-28",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -2x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x-0)=0$."
+  },
+  {
+    "id": "adv-quad-29",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-30",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-31",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 7x + 10 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--2)(x--5)=0$."
+  },
+  {
+    "id": "adv-quad-32",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -7x + 12 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-3)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-33",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-0)(x-1)=0$."
+  },
+  {
+    "id": "adv-quad-34",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 3x + -28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-35",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-36",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 2x + -24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x-4)=0$."
+  },
+  {
+    "id": "adv-quad-37",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-38",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 5x + 4 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-39",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -12x + 35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-40",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -3x + -18 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--3)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-41",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 1x + -2 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x--2)=0$."
+  },
+  {
+    "id": "adv-quad-42",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -49 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--7)(x-7)=0$."
+  },
+  {
+    "id": "adv-quad-43",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -25 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x--5)=0$."
+  },
+  {
+    "id": "adv-quad-44",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -6x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-0)(x-6)=0$."
+  },
+  {
+    "id": "adv-quad-45",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 7x + 6 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--6)(x--1)=0$."
+  },
+  {
+    "id": "adv-quad-46",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -9x + 14 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x-2)=0$."
+  },
+  {
+    "id": "adv-quad-47",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -6x + 5 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x-5)=0$."
+  },
+  {
+    "id": "adv-quad-48",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 9x + 20 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--5)(x--4)=0$."
+  },
+  {
+    "id": "adv-quad-49",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 10x + 24 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x--6)=0$."
+  },
+  {
+    "id": "adv-quad-50",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-51",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-52",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -4x + 3 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-1)(x-3)=0$."
+  },
+  {
+    "id": "adv-quad-53",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 8x + 15 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--3)(x--5)=0$."
+  },
+  {
+    "id": "adv-quad-54",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 4x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 0,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--4)(x-0)=0$."
+  },
+  {
+    "id": "adv-quad-55",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -4 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-2)(x--2)=0$."
+  },
+  {
+    "id": "adv-quad-56",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -6x + 0 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-6)(x-0)=0$."
+  },
+  {
+    "id": "adv-quad-57",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + -1x + -42 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-7)(x--6)=0$."
+  },
+  {
+    "id": "adv-quad-58",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 2x + -35 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x-5)(x--7)=0$."
+  },
+  {
+    "id": "adv-quad-59",
+    "domain": "advanced",
+    "topic": "Quadratic equations",
+    "question": "Solve $x^2 + 0x + -1 = 0$. What is the larger root?",
+    "response": {
+      "type": "spr",
+      "answer": 1,
+      "tolerance": 0.01
+    },
+    "explanation": "Factors as $(x--1)(x-1)=0$."
+  },
+  {
+    "id": "adv-exp-0",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{5} = 32$."
+  },
+  {
+    "id": "adv-exp-1",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 4$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{2} = 4$."
+  },
+  {
+    "id": "adv-exp-2",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-3",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-4",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-5",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{2} = 25$."
+  },
+  {
+    "id": "adv-exp-6",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{5} = 32$."
+  },
+  {
+    "id": "adv-exp-7",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 4$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{2} = 4$."
+  },
+  {
+    "id": "adv-exp-8",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{2} = 16$."
+  },
+  {
+    "id": "adv-exp-9",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-10",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 625$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{4} = 625$."
+  },
+  {
+    "id": "adv-exp-11",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 243$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{5} = 243$."
+  },
+  {
+    "id": "adv-exp-12",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 125$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{3} = 125$."
+  },
+  {
+    "id": "adv-exp-13",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 15625$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{6} = 15625$."
+  },
+  {
+    "id": "adv-exp-14",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-15",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 4096$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{6} = 4096$."
+  },
+  {
+    "id": "adv-exp-16",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{4} = 16$."
+  },
+  {
+    "id": "adv-exp-17",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{2} = 25$."
+  },
+  {
+    "id": "adv-exp-18",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 243$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{5} = 243$."
+  },
+  {
+    "id": "adv-exp-19",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 4096$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{6} = 4096$."
+  },
+  {
+    "id": "adv-exp-20",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 81$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{4} = 81$."
+  },
+  {
+    "id": "adv-exp-21",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-22",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 15625$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{6} = 15625$."
+  },
+  {
+    "id": "adv-exp-23",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 32$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{5} = 32$."
+  },
+  {
+    "id": "adv-exp-24",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 3125$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{5} = 3125$."
+  },
+  {
+    "id": "adv-exp-25",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 4096$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{6} = 4096$."
+  },
+  {
+    "id": "adv-exp-26",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $3^x = 81$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^{4} = 81$."
+  },
+  {
+    "id": "adv-exp-27",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 8$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{3} = 8$."
+  },
+  {
+    "id": "adv-exp-28",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 625$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{4} = 625$."
+  },
+  {
+    "id": "adv-exp-29",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{3} = 64$."
+  },
+  {
+    "id": "adv-exp-30",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{6} = 64$."
+  },
+  {
+    "id": "adv-exp-31",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-32",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{4} = 16$."
+  },
+  {
+    "id": "adv-exp-33",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 256$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{4} = 256$."
+  },
+  {
+    "id": "adv-exp-34",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 15625$.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{6} = 15625$."
+  },
+  {
+    "id": "adv-exp-35",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $2^x = 16$.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$2^{4} = 16$."
+  },
+  {
+    "id": "adv-exp-36",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 25$.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{2} = 25$."
+  },
+  {
+    "id": "adv-exp-37",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $5^x = 3125$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^{5} = 3125$."
+  },
+  {
+    "id": "adv-exp-38",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 1024$.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{5} = 1024$."
+  },
+  {
+    "id": "adv-exp-39",
+    "domain": "advanced",
+    "topic": "Exponential equations",
+    "question": "Solve $4^x = 64$.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$4^{3} = 64$."
+  },
+  {
+    "id": "adv-qfunc-0",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 4x + -5$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": -5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-1",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -2x + 4$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-2",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -4x + 12$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 67,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-3",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + 7x + -5$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 105,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-4",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 2x + -4$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -4,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-5",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -6x + 0$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 45,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-6",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -4x + -4$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-7",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -1x + 12$, what is $f(0)$?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-8",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-9",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-10",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + 0x + 7$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 34,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-11",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 5x + -8$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 42,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-12",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + 7x + 6$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 98,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-13",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -6x + -6$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 39,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-14",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -1x + 2$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-15",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + 8x + -7$, what is $f(-3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-16",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -3x + 4$, what is $f(-4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 48,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-17",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -6x + 11$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-18",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -2x + 4$, what is $f(1)$?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-19",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + 1x + -10$, what is $f(-1)$?",
+    "response": {
+      "type": "spr",
+      "answer": -7,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-20",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + -2x + 0$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 24,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-21",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + 5x + 2$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 44,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-22",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 2x^2 + 4x + 2$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-23",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -5x + -3$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": -9,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-24",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 2x + 5$, what is $f(-2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-25",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 4x^2 + -5x + -3$, what is $f(4)$?",
+    "response": {
+      "type": "spr",
+      "answer": 41,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-26",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + -2x + 5$, what is $f(2)$?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-27",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 1x^2 + 8x + 8$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 73,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-28",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -1x + -9$, what is $f(5)$?",
+    "response": {
+      "type": "spr",
+      "answer": 61,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-qfunc-29",
+    "domain": "advanced",
+    "topic": "Nonlinear functions",
+    "question": "If $f(x) = 3x^2 + -1x + -3$, what is $f(3)$?",
+    "response": {
+      "type": "spr",
+      "answer": 21,
+      "tolerance": 0.01
+    },
+    "explanation": "Substitute x into the function."
+  },
+  {
+    "id": "adv-rad-0",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{90}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{90} = 3\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-1",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{294}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{294} = 7\\sqrt{6}$."
+  },
+  {
+    "id": "adv-rad-2",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{32}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{32} = 4\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-3",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{90}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{90} = 3\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-4",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{490}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{490} = 7\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-5",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-6",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{63}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{63} = 3\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-7",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-8",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{108}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{108} = 6\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-9",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{50}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{50} = 5\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-10",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{75}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{75} = 5\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-11",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{24}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{24} = 2\\sqrt{6}$."
+  },
+  {
+    "id": "adv-rad-12",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{18}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{18} = 3\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-13",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{12}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{12} = 2\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-14",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{98}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{98} = 7\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-15",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-16",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{48}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{48} = 4\\sqrt{3}$."
+  },
+  {
+    "id": "adv-rad-17",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{20}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 2,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{20} = 2\\sqrt{5}$."
+  },
+  {
+    "id": "adv-rad-18",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{150}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{150} = 5\\sqrt{6}$."
+  },
+  {
+    "id": "adv-rad-19",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{490}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{490} = 7\\sqrt{10}$."
+  },
+  {
+    "id": "adv-rad-20",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{343}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{343} = 7\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-21",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{252}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{252} = 6\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-22",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{112}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{112} = 4\\sqrt{7}$."
+  },
+  {
+    "id": "adv-rad-23",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{72}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{72} = 6\\sqrt{2}$."
+  },
+  {
+    "id": "adv-rad-24",
+    "domain": "advanced",
+    "topic": "Radicals",
+    "question": "Simplify $\\sqrt{180}$. Enter the integer coefficient in front of the remaining radical.",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sqrt{180} = 6\\sqrt{5}$."
+  },
+  {
+    "id": "psda-pct-0",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 150 = 90.0$."
+  },
+  {
+    "id": "psda-pct-1",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 50 = 15.0$."
+  },
+  {
+    "id": "psda-pct-2",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 200 = 30.0$."
+  },
+  {
+    "id": "psda-pct-3",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 18.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 60 = 18.0$."
+  },
+  {
+    "id": "psda-pct-4",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 300 = 45.0$."
+  },
+  {
+    "id": "psda-pct-5",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $25\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$25/100 \\times 60 = 15.0$."
+  },
+  {
+    "id": "psda-pct-6",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 150 = 22.5$."
+  },
+  {
+    "id": "psda-pct-7",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 60 = 30.0$."
+  },
+  {
+    "id": "psda-pct-8",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 100 = 20.0$."
+  },
+  {
+    "id": "psda-pct-9",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 300 = 60.0$."
+  },
+  {
+    "id": "psda-pct-10",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 100 = 20.0$."
+  },
+  {
+    "id": "psda-pct-11",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 300 = 15.0$."
+  },
+  {
+    "id": "psda-pct-12",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 100 = 20.0$."
+  },
+  {
+    "id": "psda-pct-13",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 150.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 300 = 150.0$."
+  },
+  {
+    "id": "psda-pct-14",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $40$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 40 = 6.0$."
+  },
+  {
+    "id": "psda-pct-15",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 18.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 60 = 18.0$."
+  },
+  {
+    "id": "psda-pct-16",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 300 = 45.0$."
+  },
+  {
+    "id": "psda-pct-17",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $120$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 120 = 6.0$."
+  },
+  {
+    "id": "psda-pct-18",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 10.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 50 = 10.0$."
+  },
+  {
+    "id": "psda-pct-19",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $40$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 40 = 12.0$."
+  },
+  {
+    "id": "psda-pct-20",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $10\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$10/100 \\times 80 = 8.0$."
+  },
+  {
+    "id": "psda-pct-21",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 60 = 30.0$."
+  },
+  {
+    "id": "psda-pct-22",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 150 = 22.5$."
+  },
+  {
+    "id": "psda-pct-23",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 50 = 30.0$."
+  },
+  {
+    "id": "psda-pct-24",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $250$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 250 = 12.5$."
+  },
+  {
+    "id": "psda-pct-25",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 300 = 60.0$."
+  },
+  {
+    "id": "psda-pct-26",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 50 = 20.0$."
+  },
+  {
+    "id": "psda-pct-27",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 60 = 12.0$."
+  },
+  {
+    "id": "psda-pct-28",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 100 = 15.0$."
+  },
+  {
+    "id": "psda-pct-29",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 200 = 30.0$."
+  },
+  {
+    "id": "psda-pct-30",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $30\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$30/100 \\times 300 = 90.0$."
+  },
+  {
+    "id": "psda-pct-31",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 150 = 7.5$."
+  },
+  {
+    "id": "psda-pct-32",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 150.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 300 = 150.0$."
+  },
+  {
+    "id": "psda-pct-33",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 40.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 100 = 40.0$."
+  },
+  {
+    "id": "psda-pct-34",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $150$?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 150 = 22.5$."
+  },
+  {
+    "id": "psda-pct-35",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 300 = 45.0$."
+  },
+  {
+    "id": "psda-pct-36",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 16.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 80 = 16.0$."
+  },
+  {
+    "id": "psda-pct-37",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $50\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 50.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$50/100 \\times 100 = 50.0$."
+  },
+  {
+    "id": "psda-pct-38",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $15\\%$ of $250$?",
+    "response": {
+      "type": "spr",
+      "answer": 37.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$15/100 \\times 250 = 37.5$."
+  },
+  {
+    "id": "psda-pct-39",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $300$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 300 = 60.0$."
+  },
+  {
+    "id": "psda-pct-40",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 36.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 60 = 36.0$."
+  },
+  {
+    "id": "psda-pct-41",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $20\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$20/100 \\times 60 = 12.0$."
+  },
+  {
+    "id": "psda-pct-42",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $10\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$10/100 \\times 200 = 20.0$."
+  },
+  {
+    "id": "psda-pct-43",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $25\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$25/100 \\times 50 = 12.5$."
+  },
+  {
+    "id": "psda-pct-44",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $5\\%$ of $60$?",
+    "response": {
+      "type": "spr",
+      "answer": 3.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$5/100 \\times 60 = 3.0$."
+  },
+  {
+    "id": "psda-pct-45",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $200$?",
+    "response": {
+      "type": "spr",
+      "answer": 80.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 200 = 80.0$."
+  },
+  {
+    "id": "psda-pct-46",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 48.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 80 = 48.0$."
+  },
+  {
+    "id": "psda-pct-47",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $40\\%$ of $80$?",
+    "response": {
+      "type": "spr",
+      "answer": 32.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$40/100 \\times 80 = 32.0$."
+  },
+  {
+    "id": "psda-pct-48",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $25\\%$ of $50$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "$25/100 \\times 50 = 12.5$."
+  },
+  {
+    "id": "psda-pct-49",
+    "domain": "psda",
+    "topic": "Percentages",
+    "question": "What is $60\\%$ of $100$?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "$60/100 \\times 100 = 60.0$."
+  },
+  {
+    "id": "psda-ratio-0",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:7$. If A is $5$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.83,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 5 / 6$."
+  },
+  {
+    "id": "psda-ratio-1",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:12$. If A is $5$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 12 \\times 5 / 4$."
+  },
+  {
+    "id": "psda-ratio-2",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $5:3$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 7.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 3 \\times 12 / 5$."
+  },
+  {
+    "id": "psda-ratio-3",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $3:9$. If A is $10$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 9 \\times 10 / 3$."
+  },
+  {
+    "id": "psda-ratio-4",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:10$. If A is $3$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 3 / 6$."
+  },
+  {
+    "id": "psda-ratio-5",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:10$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 17.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 7 / 4$."
+  },
+  {
+    "id": "psda-ratio-6",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:4$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 3.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 4 \\times 8 / 10$."
+  },
+  {
+    "id": "psda-ratio-7",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:7$. If A is $3$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.1,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 3 / 10$."
+  },
+  {
+    "id": "psda-ratio-8",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:13$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.89,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 13 \\times 2 / 9$."
+  },
+  {
+    "id": "psda-ratio-9",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:7$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 7 / 4$."
+  },
+  {
+    "id": "psda-ratio-10",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:10$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 22.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 9 / 4$."
+  },
+  {
+    "id": "psda-ratio-11",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:4$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 4 \\times 9 / 6$."
+  },
+  {
+    "id": "psda-ratio-12",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:8$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 6.22,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 8 \\times 7 / 9$."
+  },
+  {
+    "id": "psda-ratio-13",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $3:6$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 14.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 7 / 3$."
+  },
+  {
+    "id": "psda-ratio-14",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:7$. If A is $11$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.83,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 7 \\times 11 / 6$."
+  },
+  {
+    "id": "psda-ratio-15",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:4$. If A is $3$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 1.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 4 \\times 3 / 10$."
+  },
+  {
+    "id": "psda-ratio-16",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $2:13$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 45.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 13 \\times 7 / 2$."
+  },
+  {
+    "id": "psda-ratio-17",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:10$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.86,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 9 / 7$."
+  },
+  {
+    "id": "psda-ratio-18",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $8:5$. If A is $4$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 4 / 8$."
+  },
+  {
+    "id": "psda-ratio-19",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $5:5$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 12 / 5$."
+  },
+  {
+    "id": "psda-ratio-20",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:6$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 7.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 9 / 7$."
+  },
+  {
+    "id": "psda-ratio-21",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:15$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 15 \\times 12 / 4$."
+  },
+  {
+    "id": "psda-ratio-22",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:6$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 4.8,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 8 / 10$."
+  },
+  {
+    "id": "psda-ratio-23",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:9$. If A is $4$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.14,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 9 \\times 4 / 7$."
+  },
+  {
+    "id": "psda-ratio-24",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:12$. If A is $7$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 14.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 12 \\times 7 / 6$."
+  },
+  {
+    "id": "psda-ratio-25",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $8:11$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 11.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 11 \\times 8 / 8$."
+  },
+  {
+    "id": "psda-ratio-26",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $2:14$. If A is $5$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 35.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 14 \\times 5 / 2$."
+  },
+  {
+    "id": "psda-ratio-27",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:6$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 12 / 9$."
+  },
+  {
+    "id": "psda-ratio-28",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $5:5$. If A is $11$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 11.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 11 / 5$."
+  },
+  {
+    "id": "psda-ratio-29",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:10$. If A is $11$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.71,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 11 / 7$."
+  },
+  {
+    "id": "psda-ratio-30",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $7:14$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 4.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 14 \\times 2 / 7$."
+  },
+  {
+    "id": "psda-ratio-31",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $9:8$. If A is $9$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 8 \\times 9 / 9$."
+  },
+  {
+    "id": "psda-ratio-32",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $2:6$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 2 / 2$."
+  },
+  {
+    "id": "psda-ratio-33",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:5$. If A is $6$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 5.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 6 / 6$."
+  },
+  {
+    "id": "psda-ratio-34",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:10$. If A is $4$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 10.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 4 / 4$."
+  },
+  {
+    "id": "psda-ratio-35",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:6$. If A is $10$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 6 \\times 10 / 4$."
+  },
+  {
+    "id": "psda-ratio-36",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $4:5$. If A is $12$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 15.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 5 \\times 12 / 4$."
+  },
+  {
+    "id": "psda-ratio-37",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $6:15$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 20.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 15 \\times 8 / 6$."
+  },
+  {
+    "id": "psda-ratio-38",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $10:10$. If A is $2$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 2.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 10 \\times 2 / 10$."
+  },
+  {
+    "id": "psda-ratio-39",
+    "domain": "psda",
+    "topic": "Ratios and proportions",
+    "question": "The ratio of A to B is $8:12$. If A is $8$, what is B?",
+    "response": {
+      "type": "spr",
+      "answer": 12.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Scale factor: $B = 12 \\times 8 / 8$."
+  },
+  {
+    "id": "psda-mean-0",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.8$. Four numbers are 12, 14, 8, 6. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-1",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $12.0$. Four numbers are 18, 13, 6, 15. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-2",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $17.0$. Four numbers are 17, 12, 18, 21. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-3",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.6$. Four numbers are 19, 5, 5, 11. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-4",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.4$. Four numbers are 18, 17, 11, 7. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-5",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.2$. Four numbers are 19, 5, 15, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-6",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $8.2$. Four numbers are 11, 4, 6, 6. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-7",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $19.4$. Four numbers are 21, 20, 19, 21. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-8",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.8$. Four numbers are 19, 13, 10, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-9",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $15.0$. Four numbers are 16, 10, 20, 10. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 19,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-10",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $12.2$. Four numbers are 10, 5, 20, 10. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-11",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.0$. Four numbers are 13, 12, 19, 13. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-12",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.6$. Four numbers are 21, 16, 14, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-13",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $10.2$. Four numbers are 8, 6, 15, 11. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-14",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.0$. Four numbers are 7, 18, 5, 4. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-15",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.6$. Four numbers are 22, 5, 16, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-16",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.0$. Four numbers are 7, 9, 10, 13. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-17",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $16.8$. Four numbers are 17, 11, 18, 22. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-18",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.8$. Four numbers are 13, 10, 22, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-19",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $16.6$. Four numbers are 19, 22, 12, 19. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-20",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $15.8$. Four numbers are 20, 22, 15, 9. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-21",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $12.2$. Four numbers are 19, 20, 6, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-22",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $13.8$. Four numbers are 17, 5, 15, 16. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-23",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.8$. Four numbers are 19, 10, 10, 14. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-24",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $9.6$. Four numbers are 10, 11, 9, 8. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-25",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.4$. Four numbers are 11, 17, 8, 22. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-26",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $10.6$. Four numbers are 16, 16, 10, 4. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-27",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $11.8$. Four numbers are 22, 11, 9, 11. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-28",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.6$. Four numbers are 19, 14, 14, 10. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-mean-29",
+    "domain": "psda",
+    "topic": "One-variable data",
+    "question": "The mean of five numbers is $14.6$. Four numbers are 16, 16, 21, 6. What is the fifth?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Sum = mean \u00d7 5. Subtract the known values."
+  },
+  {
+    "id": "psda-prob-0",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $30$ items, $24$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.8,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $24/30$."
+  },
+  {
+    "id": "psda-prob-1",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $15$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $15/40$."
+  },
+  {
+    "id": "psda-prob-2",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $31$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $31/50$."
+  },
+  {
+    "id": "psda-prob-3",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.56,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $14/25$."
+  },
+  {
+    "id": "psda-prob-4",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $15$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $15/25$."
+  },
+  {
+    "id": "psda-prob-5",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $41$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.82,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $41/50$."
+  },
+  {
+    "id": "psda-prob-6",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $6$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.12,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $6/50$."
+  },
+  {
+    "id": "psda-prob-7",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $17$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.68,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $17/25$."
+  },
+  {
+    "id": "psda-prob-8",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $25$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.42,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $25/60$."
+  },
+  {
+    "id": "psda-prob-9",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.28,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/40$."
+  },
+  {
+    "id": "psda-prob-10",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.55,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/20$."
+  },
+  {
+    "id": "psda-prob-11",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $13$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.65,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $13/20$."
+  },
+  {
+    "id": "psda-prob-12",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $7$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.12,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $7/60$."
+  },
+  {
+    "id": "psda-prob-13",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $8$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $8/40$."
+  },
+  {
+    "id": "psda-prob-14",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $7$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.28,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $7/25$."
+  },
+  {
+    "id": "psda-prob-15",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.56,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $14/25$."
+  },
+  {
+    "id": "psda-prob-16",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $16$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.27,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $16/60$."
+  },
+  {
+    "id": "psda-prob-17",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $30$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.37,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/30$."
+  },
+  {
+    "id": "psda-prob-18",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $25$ items, $11$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.44,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $11/25$."
+  },
+  {
+    "id": "psda-prob-19",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $5$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.12,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $5/40$."
+  },
+  {
+    "id": "psda-prob-20",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $5$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.25,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $5/20$."
+  },
+  {
+    "id": "psda-prob-21",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $17$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.34,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $17/50$."
+  },
+  {
+    "id": "psda-prob-22",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $40$ items, $25$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $25/40$."
+  },
+  {
+    "id": "psda-prob-23",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $12$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.24,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $12/50$."
+  },
+  {
+    "id": "psda-prob-24",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.23,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $14/60$."
+  },
+  {
+    "id": "psda-prob-25",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $35$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.58,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $35/60$."
+  },
+  {
+    "id": "psda-prob-26",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $60$ items, $34$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.57,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $34/60$."
+  },
+  {
+    "id": "psda-prob-27",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $46$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.92,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $46/50$."
+  },
+  {
+    "id": "psda-prob-28",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $50$ items, $19$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.38,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $19/50$."
+  },
+  {
+    "id": "psda-prob-29",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "There are $20$ items, $10$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
+    "response": {
+      "type": "spr",
+      "answer": 0.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Probability = $10/20$."
+  },
+  {
+    "id": "geom-pyth-0",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-1",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-2",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-3",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-4",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-5",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "$6^2 + 8^2 = 10^2$."
+  },
+  {
+    "id": "geom-pyth-6",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-7",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-8",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "$6^2 + 8^2 = 10^2$."
+  },
+  {
+    "id": "geom-pyth-9",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-10",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-11",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-12",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "$6^2 + 8^2 = 10^2$."
+  },
+  {
+    "id": "geom-pyth-13",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-14",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-15",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-16",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-17",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-18",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-19",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^2 + 4^2 = 5^2$."
+  },
+  {
+    "id": "geom-pyth-20",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-21",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-22",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-23",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-24",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-25",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-26",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^2 + 4^2 = 5^2$."
+  },
+  {
+    "id": "geom-pyth-27",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-28",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 17,
+      "tolerance": 0.01
+    },
+    "explanation": "$8^2 + 15^2 = 17^2$."
+  },
+  {
+    "id": "geom-pyth-29",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-pyth-30",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $40$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 41,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 40^2 = 41^2$."
+  },
+  {
+    "id": "geom-pyth-31",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-32",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-33",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 15,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 12^2 = 15^2$."
+  },
+  {
+    "id": "geom-pyth-34",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-35",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "$7^2 + 24^2 = 25^2$."
+  },
+  {
+    "id": "geom-pyth-36",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $9$ and $40$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 41,
+      "tolerance": 0.01
+    },
+    "explanation": "$9^2 + 40^2 = 41^2$."
+  },
+  {
+    "id": "geom-pyth-37",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 29,
+      "tolerance": 0.01
+    },
+    "explanation": "$20^2 + 21^2 = 29^2$."
+  },
+  {
+    "id": "geom-pyth-38",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 5,
+      "tolerance": 0.01
+    },
+    "explanation": "$3^2 + 4^2 = 5^2$."
+  },
+  {
+    "id": "geom-pyth-39",
+    "domain": "geometry",
+    "topic": "Right triangles",
+    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 13,
+      "tolerance": 0.01
+    },
+    "explanation": "$5^2 + 12^2 = 13^2$."
+  },
+  {
+    "id": "geom-circ-0",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 196,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 196\\pi$."
+  },
+  {
+    "id": "geom-circ-1",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 196,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 196\\pi$."
+  },
+  {
+    "id": "geom-circ-2",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $2$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 4\\pi$."
+  },
+  {
+    "id": "geom-circ-3",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-4",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 9\\pi$."
+  },
+  {
+    "id": "geom-circ-5",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 9\\pi$."
+  },
+  {
+    "id": "geom-circ-6",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $9$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 81,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 81\\pi$."
+  },
+  {
+    "id": "geom-circ-7",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $8$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 64,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 64\\pi$."
+  },
+  {
+    "id": "geom-circ-8",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $5$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 25\\pi$."
+  },
+  {
+    "id": "geom-circ-9",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 100\\pi$."
+  },
+  {
+    "id": "geom-circ-10",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-11",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-12",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 100\\pi$."
+  },
+  {
+    "id": "geom-circ-13",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-14",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-15",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $2$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 4\\pi$."
+  },
+  {
+    "id": "geom-circ-16",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 100\\pi$."
+  },
+  {
+    "id": "geom-circ-17",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-18",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $12$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 144\\pi$."
+  },
+  {
+    "id": "geom-circ-19",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $5$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 25\\pi$."
+  },
+  {
+    "id": "geom-circ-20",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $7$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 49,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 49\\pi$."
+  },
+  {
+    "id": "geom-circ-21",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-22",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 16\\pi$."
+  },
+  {
+    "id": "geom-circ-23",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 16\\pi$."
+  },
+  {
+    "id": "geom-circ-24",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-25",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-26",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 121\\pi$."
+  },
+  {
+    "id": "geom-circ-27",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 16\\pi$."
+  },
+  {
+    "id": "geom-circ-28",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 121\\pi$."
+  },
+  {
+    "id": "geom-circ-29",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-circ-30",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 121\\pi$."
+  },
+  {
+    "id": "geom-circ-31",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $12$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 144\\pi$."
+  },
+  {
+    "id": "geom-circ-32",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 169,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 169\\pi$."
+  },
+  {
+    "id": "geom-circ-33",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $6$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 36,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 36\\pi$."
+  },
+  {
+    "id": "geom-circ-34",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
+    "response": {
+      "type": "spr",
+      "answer": 225,
+      "tolerance": 0.01
+    },
+    "explanation": "Area $= 225\\pi$."
+  },
+  {
+    "id": "geom-vol-0",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 3 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 162,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-1",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $2 \\times 3 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 36,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-2",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $10 \\times 3 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 180,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-3",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 9 \\times 7$?",
+    "response": {
+      "type": "spr",
+      "answer": 504,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-4",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 4 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 108,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-5",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 10 \\times 11$?",
+    "response": {
+      "type": "spr",
+      "answer": 440,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-6",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 10 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 600,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-7",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $7 \\times 9 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 756,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-8",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 4 \\times 5$?",
+    "response": {
+      "type": "spr",
+      "answer": 120,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-9",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 9 \\times 7$?",
+    "response": {
+      "type": "spr",
+      "answer": 315,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-10",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 3 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 81,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-11",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 9 \\times 8$?",
+    "response": {
+      "type": "spr",
+      "answer": 360,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-12",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 8 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 240,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-13",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $7 \\times 10 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 700,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-14",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 10 \\times 11$?",
+    "response": {
+      "type": "spr",
+      "answer": 660,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-15",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $10 \\times 2 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 200,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-16",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 9 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 324,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-17",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 4 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-18",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 4 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 384,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-19",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $9 \\times 3 \\times 6$?",
+    "response": {
+      "type": "spr",
+      "answer": 162,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-20",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 5 \\times 3$?",
+    "response": {
+      "type": "spr",
+      "answer": 60,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-21",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 6 \\times 7$?",
+    "response": {
+      "type": "spr",
+      "answer": 126,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-22",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $4 \\times 7 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 336,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-23",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 6 \\times 3$?",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-24",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $5 \\times 2 \\times 10$?",
+    "response": {
+      "type": "spr",
+      "answer": 100,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-25",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $8 \\times 7 \\times 8$?",
+    "response": {
+      "type": "spr",
+      "answer": 448,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-26",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $2 \\times 6 \\times 5$?",
+    "response": {
+      "type": "spr",
+      "answer": 60,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-27",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $6 \\times 9 \\times 12$?",
+    "response": {
+      "type": "spr",
+      "answer": 648,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-28",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $10 \\times 5 \\times 9$?",
+    "response": {
+      "type": "spr",
+      "answer": 450,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-vol-29",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "What is the volume of a rectangular prism $3 \\times 5 \\times 5$?",
+    "response": {
+      "type": "spr",
+      "answer": 75,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume = l \u00d7 w \u00d7 h."
+  },
+  {
+    "id": "geom-3060-0",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-1",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $10$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 20,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-2",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-3",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-4",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $7$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-5",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-6",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-7",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $3$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-8",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-9",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $7$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 14,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-10",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $5$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-11",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-12",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $9$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-13",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-14",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $2$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-15",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-16",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $10$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 20,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-17",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $2$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-18",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $5$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 10,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-19",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $9$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 18,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-20",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 16,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-21",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-22",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-23",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-3060-24",
+    "domain": "geometry",
+    "topic": "Special right triangles",
+    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
+    "response": {
+      "type": "spr",
+      "answer": 12,
+      "tolerance": 0.01
+    },
+    "explanation": "Hypotenuse = 2 \u00d7 short leg."
+  },
+  {
+    "id": "geom-tri-0",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $16$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 24.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-1",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $15$ and height $6$?",
+    "response": {
+      "type": "spr",
+      "answer": 45.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-2",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $11$ and height $6$?",
+    "response": {
+      "type": "spr",
+      "answer": 33.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-3",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $4$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 6.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-4",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $9$ and height $7$?",
+    "response": {
+      "type": "spr",
+      "answer": 31.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-5",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $9$?",
+    "response": {
+      "type": "spr",
+      "answer": 27.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-6",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $15$ and height $13$?",
+    "response": {
+      "type": "spr",
+      "answer": 97.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-7",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $13$ and height $4$?",
+    "response": {
+      "type": "spr",
+      "answer": 26.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-8",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $7$ and height $10$?",
+    "response": {
+      "type": "spr",
+      "answer": 35.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-9",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 9.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-10",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $5$?",
+    "response": {
+      "type": "spr",
+      "answer": 30.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-11",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $5$ and height $5$?",
+    "response": {
+      "type": "spr",
+      "answer": 12.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-12",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $11$?",
+    "response": {
+      "type": "spr",
+      "answer": 33.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-13",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $11$?",
+    "response": {
+      "type": "spr",
+      "answer": 66.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-14",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 18.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-15",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $4$ and height $4$?",
+    "response": {
+      "type": "spr",
+      "answer": 8.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-16",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $7$ and height $10$?",
+    "response": {
+      "type": "spr",
+      "answer": 35.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-17",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $11$ and height $13$?",
+    "response": {
+      "type": "spr",
+      "answer": 71.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-18",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $16$ and height $11$?",
+    "response": {
+      "type": "spr",
+      "answer": 88.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-19",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $12$ and height $8$?",
+    "response": {
+      "type": "spr",
+      "answer": 48.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-20",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $6$ and height $14$?",
+    "response": {
+      "type": "spr",
+      "answer": 42.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-21",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $10$ and height $10$?",
+    "response": {
+      "type": "spr",
+      "answer": 50.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-22",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $5$ and height $3$?",
+    "response": {
+      "type": "spr",
+      "answer": 7.5,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-23",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $15$ and height $12$?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-tri-24",
+    "domain": "geometry",
+    "topic": "Area",
+    "question": "What is the area of a triangle with base $8$ and height $6$?",
+    "response": {
+      "type": "spr",
+      "answer": 24.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\dfrac{1}{2}bh$."
+  }
+]
