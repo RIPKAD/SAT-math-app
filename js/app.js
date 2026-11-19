@@ -69,6 +69,8 @@ function showQuestion() {
   $("choices").innerHTML = "";
   $("spr-input").classList.add("hidden");
   $("spr-answer").value = "";
+  $("spr-answer").disabled = false;   // re-enable for next question
+  $("submit-spr").disabled = false;   // re-enable for next question
 
   if (q.response.type === "mc") {
     q.response.choices.forEach((choice, idx) => {
