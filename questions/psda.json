@@ -120,18 +120,6 @@
     "explanation": "$20/100 \\times 300 = 60.0$."
   },
   {
-    "id": "psda-pct-10",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $100$?",
-    "response": {
-      "type": "spr",
-      "answer": 20.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 100 = 20.0$."
-  },
-  {
     "id": "psda-pct-11",
     "domain": "psda",
     "topic": "Percentages",
@@ -142,18 +130,6 @@
       "tolerance": 0.01
     },
     "explanation": "$5/100 \\times 300 = 15.0$."
-  },
-  {
-    "id": "psda-pct-12",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $100$?",
-    "response": {
-      "type": "spr",
-      "answer": 20.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 100 = 20.0$."
   },
   {
     "id": "psda-pct-13",
@@ -178,30 +154,6 @@
       "tolerance": 0.01
     },
     "explanation": "$15/100 \\times 40 = 6.0$."
-  },
-  {
-    "id": "psda-pct-15",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $30\\%$ of $60$?",
-    "response": {
-      "type": "spr",
-      "answer": 18.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$30/100 \\times 60 = 18.0$."
-  },
-  {
-    "id": "psda-pct-16",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 45.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 300 = 45.0$."
   },
   {
     "id": "psda-pct-17",
@@ -252,30 +204,6 @@
     "explanation": "$10/100 \\times 80 = 8.0$."
   },
   {
-    "id": "psda-pct-21",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $50\\%$ of $60$?",
-    "response": {
-      "type": "spr",
-      "answer": 30.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$50/100 \\times 60 = 30.0$."
-  },
-  {
-    "id": "psda-pct-22",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $150$?",
-    "response": {
-      "type": "spr",
-      "answer": 22.5,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 150 = 22.5$."
-  },
-  {
     "id": "psda-pct-23",
     "domain": "psda",
     "topic": "Percentages",
@@ -298,18 +226,6 @@
       "tolerance": 0.01
     },
     "explanation": "$5/100 \\times 250 = 12.5$."
-  },
-  {
-    "id": "psda-pct-25",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 60.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 300 = 60.0$."
   },
   {
     "id": "psda-pct-26",
@@ -348,18 +264,6 @@
     "explanation": "$15/100 \\times 100 = 15.0$."
   },
   {
-    "id": "psda-pct-29",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $200$?",
-    "response": {
-      "type": "spr",
-      "answer": 30.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 200 = 30.0$."
-  },
-  {
     "id": "psda-pct-30",
     "domain": "psda",
     "topic": "Percentages",
@@ -384,18 +288,6 @@
     "explanation": "$5/100 \\times 150 = 7.5$."
   },
   {
-    "id": "psda-pct-32",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $50\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 150.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$50/100 \\times 300 = 150.0$."
-  },
-  {
     "id": "psda-pct-33",
     "domain": "psda",
     "topic": "Percentages",
@@ -406,30 +298,6 @@
       "tolerance": 0.01
     },
     "explanation": "$40/100 \\times 100 = 40.0$."
-  },
-  {
-    "id": "psda-pct-34",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $150$?",
-    "response": {
-      "type": "spr",
-      "answer": 22.5,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 150 = 22.5$."
-  },
-  {
-    "id": "psda-pct-35",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 45.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 300 = 45.0$."
   },
   {
     "id": "psda-pct-36",
@@ -468,18 +336,6 @@
     "explanation": "$15/100 \\times 250 = 37.5$."
   },
   {
-    "id": "psda-pct-39",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 60.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 300 = 60.0$."
-  },
-  {
     "id": "psda-pct-40",
     "domain": "psda",
     "topic": "Percentages",
@@ -490,18 +346,6 @@
       "tolerance": 0.01
     },
     "explanation": "$60/100 \\times 60 = 36.0$."
-  },
-  {
-    "id": "psda-pct-41",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $60$?",
-    "response": {
-      "type": "spr",
-      "answer": 12.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 60 = 12.0$."
   },
   {
     "id": "psda-pct-42",
@@ -574,18 +418,6 @@
       "tolerance": 0.01
     },
     "explanation": "$40/100 \\times 80 = 32.0$."
-  },
-  {
-    "id": "psda-pct-48",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $25\\%$ of $50$?",
-    "response": {
-      "type": "spr",
-      "answer": 12.5,
-      "tolerance": 0.01
-    },
-    "explanation": "$25/100 \\times 50 = 12.5$."
   },
   {
     "id": "psda-pct-49",
@@ -1620,18 +1452,6 @@
     "explanation": "Probability = $7/25$."
   },
   {
-    "id": "psda-prob-15",
-    "domain": "psda",
-    "topic": "Probability",
-    "question": "There are $25$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
-    "response": {
-      "type": "spr",
-      "answer": 0.56,
-      "tolerance": 0.01
-    },
-    "explanation": "Probability = $14/25$."
-  },
-  {
     "id": "psda-prob-16",
     "domain": "psda",
     "topic": "Probability",
@@ -1798,5 +1618,370 @@
       "tolerance": 0.01
     },
     "explanation": "Probability = $10/20$."
+  },
+  {
+    "id": "psda-pctchg-0",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $50 by 30%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 65.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 30/100)."
+  },
+  {
+    "id": "psda-pctchg-1",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $80 by 10%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 88.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 10/100)."
+  },
+  {
+    "id": "psda-pctchg-2",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $100 by 40%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 40/100)."
+  },
+  {
+    "id": "psda-pctchg-3",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $60 by 10%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 54.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 10/100)."
+  },
+  {
+    "id": "psda-pctchg-4",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $200 by 40%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 280.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 40/100)."
+  },
+  {
+    "id": "psda-pctchg-5",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $80 by 25%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 100.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 25/100)."
+  },
+  {
+    "id": "psda-pctchg-6",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $100 by 10%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 10/100)."
+  },
+  {
+    "id": "psda-pctchg-7",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $60 by 15%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 51.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 15/100)."
+  },
+  {
+    "id": "psda-pctchg-8",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $150 by 25%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 187.5,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 25/100)."
+  },
+  {
+    "id": "psda-pctchg-10",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $50 by 25%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 62.5,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 25/100)."
+  },
+  {
+    "id": "psda-pctchg-11",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $40 by 20%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 32.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 20/100)."
+  },
+  {
+    "id": "psda-probscen-0",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 20 marbles: 5 red, 11 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 4, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-1",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 40 marbles: 15 red, 12 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 13, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-2",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 40 marbles: 15 red, 6 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.47,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 19, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-3",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 40 marbles: 19 red, 8 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 13, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-4",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 25 marbles: 8 red, 9 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.32,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 8, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-5",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 15 red, 17 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.36,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 18, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-6",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 12 red, 7 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 31, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-7",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 17 red, 4 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.58,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 29, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-8",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 25 marbles: 7 red, 3 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 15, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-9",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 6 red, 31 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.26,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 13, so probability = green / total."
+  },
+  {
+    "id": "psda-meandata-0",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 37, 34, 30, 16, 25?",
+    "response": {
+      "type": "spr",
+      "answer": 28.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-1",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 32, 31, 38, 10, 14?",
+    "response": {
+      "type": "spr",
+      "answer": 25.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-2",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 30, 26, 16, 35, 38?",
+    "response": {
+      "type": "spr",
+      "answer": 29.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-3",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 26, 38, 40, 14, 15?",
+    "response": {
+      "type": "spr",
+      "answer": 26.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-4",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 31, 37, 15, 22, 18?",
+    "response": {
+      "type": "spr",
+      "answer": 24.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-5",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 23, 27, 23, 37, 12?",
+    "response": {
+      "type": "spr",
+      "answer": 24.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-6",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 22, 19, 15, 21, 15?",
+    "response": {
+      "type": "spr",
+      "answer": 18.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-7",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 18, 24, 25, 34, 36?",
+    "response": {
+      "type": "spr",
+      "answer": 27.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-scatter-1",
+    "domain": "psda",
+    "topic": "Two-variable data",
+    "question": "A line of best fit for a scatterplot has equation $y = 1.8x + 4$. What does the slope 1.8 represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The predicted increase in y for each 1-unit increase in x",
+        "The y-intercept",
+        "The correlation coefficient",
+        "The total number of data points"
+      ],
+      "correct": 0
+    },
+    "explanation": "Slope is the rate of change / predicted change in the response variable."
   }
 ]

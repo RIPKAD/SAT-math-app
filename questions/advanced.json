@@ -72,18 +72,6 @@
     "explanation": "Factors as $(x--5)(x-7)=0$."
   },
   {
-    "id": "adv-quad-6",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x-3)=0$."
-  },
-  {
     "id": "adv-quad-7",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -94,18 +82,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x--2)(x-3)=0$."
-  },
-  {
-    "id": "adv-quad-8",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x-3)=0$."
   },
   {
     "id": "adv-quad-9",
@@ -204,18 +180,6 @@
     "explanation": "Factors as $(x-7)(x-5)=0$."
   },
   {
-    "id": "adv-quad-17",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -2x + -24 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--4)(x-6)=0$."
-  },
-  {
     "id": "adv-quad-18",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -288,30 +252,6 @@
     "explanation": "Factors as $(x--5)(x-6)=0$."
   },
   {
-    "id": "adv-quad-24",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -1x + -6 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-3)(x--2)=0$."
-  },
-  {
-    "id": "adv-quad-25",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -2x + -35 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--5)(x-7)=0$."
-  },
-  {
     "id": "adv-quad-26",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -360,18 +300,6 @@
     "explanation": "Factors as $(x-7)(x-4)=0$."
   },
   {
-    "id": "adv-quad-30",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -11x + 28 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-7)(x-4)=0$."
-  },
-  {
     "id": "adv-quad-31",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -396,18 +324,6 @@
     "explanation": "Factors as $(x-3)(x-4)=0$."
   },
   {
-    "id": "adv-quad-33",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -1x + 0 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 1,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-0)(x-1)=0$."
-  },
-  {
     "id": "adv-quad-34",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -418,18 +334,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x--7)(x-4)=0$."
-  },
-  {
-    "id": "adv-quad-35",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": -4,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--7)(x--4)=0$."
   },
   {
     "id": "adv-quad-36",
@@ -444,18 +348,6 @@
     "explanation": "Factors as $(x--6)(x-4)=0$."
   },
   {
-    "id": "adv-quad-37",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -9x + 18 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-6)(x-3)=0$."
-  },
-  {
     "id": "adv-quad-38",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -466,18 +358,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x--4)(x--1)=0$."
-  },
-  {
-    "id": "adv-quad-39",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -12x + 35 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x-7)=0$."
   },
   {
     "id": "adv-quad-40",
@@ -612,18 +492,6 @@
     "explanation": "Factors as $(x-5)(x--7)=0$."
   },
   {
-    "id": "adv-quad-51",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": -4,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--4)(x--7)=0$."
-  },
-  {
     "id": "adv-quad-52",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -634,18 +502,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x-1)(x-3)=0$."
-  },
-  {
-    "id": "adv-quad-53",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 8x + 15 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": -3,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--3)(x--5)=0$."
   },
   {
     "id": "adv-quad-54",
@@ -670,42 +526,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x-2)(x--2)=0$."
-  },
-  {
-    "id": "adv-quad-56",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -6x + 0 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-6)(x-0)=0$."
-  },
-  {
-    "id": "adv-quad-57",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -1x + -42 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-7)(x--6)=0$."
-  },
-  {
-    "id": "adv-quad-58",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 2x + -35 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x--7)=0$."
   },
   {
     "id": "adv-quad-59",
@@ -756,18 +576,6 @@
     "explanation": "$4^{5} = 1024$."
   },
   {
-    "id": "adv-exp-3",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 1024$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{5} = 1024$."
-  },
-  {
     "id": "adv-exp-4",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -792,30 +600,6 @@
     "explanation": "$5^{2} = 25$."
   },
   {
-    "id": "adv-exp-6",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 32$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{5} = 32$."
-  },
-  {
-    "id": "adv-exp-7",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 4$.",
-    "response": {
-      "type": "spr",
-      "answer": 2,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{2} = 4$."
-  },
-  {
     "id": "adv-exp-8",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -826,18 +610,6 @@
       "tolerance": 0.01
     },
     "explanation": "$4^{2} = 16$."
-  },
-  {
-    "id": "adv-exp-9",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
   },
   {
     "id": "adv-exp-10",
@@ -888,18 +660,6 @@
     "explanation": "$5^{6} = 15625$."
   },
   {
-    "id": "adv-exp-14",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
-  },
-  {
     "id": "adv-exp-15",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -924,42 +684,6 @@
     "explanation": "$2^{4} = 16$."
   },
   {
-    "id": "adv-exp-17",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 25$.",
-    "response": {
-      "type": "spr",
-      "answer": 2,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{2} = 25$."
-  },
-  {
-    "id": "adv-exp-18",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $3^x = 243$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^{5} = 243$."
-  },
-  {
-    "id": "adv-exp-19",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 4096$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{6} = 4096$."
-  },
-  {
     "id": "adv-exp-20",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -970,42 +694,6 @@
       "tolerance": 0.01
     },
     "explanation": "$3^{4} = 81$."
-  },
-  {
-    "id": "adv-exp-21",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
-  },
-  {
-    "id": "adv-exp-22",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 15625$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{6} = 15625$."
-  },
-  {
-    "id": "adv-exp-23",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 32$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{5} = 32$."
   },
   {
     "id": "adv-exp-24",
@@ -1020,30 +708,6 @@
     "explanation": "$5^{5} = 3125$."
   },
   {
-    "id": "adv-exp-25",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 4096$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{6} = 4096$."
-  },
-  {
-    "id": "adv-exp-26",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $3^x = 81$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^{4} = 81$."
-  },
-  {
     "id": "adv-exp-27",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -1054,18 +718,6 @@
       "tolerance": 0.01
     },
     "explanation": "$2^{3} = 8$."
-  },
-  {
-    "id": "adv-exp-28",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 625$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{4} = 625$."
   },
   {
     "id": "adv-exp-29",
@@ -1080,42 +732,6 @@
     "explanation": "$4^{3} = 64$."
   },
   {
-    "id": "adv-exp-30",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
-  },
-  {
-    "id": "adv-exp-31",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 1024$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{5} = 1024$."
-  },
-  {
-    "id": "adv-exp-32",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 16$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{4} = 16$."
-  },
-  {
     "id": "adv-exp-33",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -1126,78 +742,6 @@
       "tolerance": 0.01
     },
     "explanation": "$4^{4} = 256$."
-  },
-  {
-    "id": "adv-exp-34",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 15625$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{6} = 15625$."
-  },
-  {
-    "id": "adv-exp-35",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 16$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{4} = 16$."
-  },
-  {
-    "id": "adv-exp-36",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 25$.",
-    "response": {
-      "type": "spr",
-      "answer": 2,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{2} = 25$."
-  },
-  {
-    "id": "adv-exp-37",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 3125$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{5} = 3125$."
-  },
-  {
-    "id": "adv-exp-38",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 1024$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{5} = 1024$."
-  },
-  {
-    "id": "adv-exp-39",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{3} = 64$."
   },
   {
     "id": "adv-qfunc-0",
@@ -1297,18 +841,6 @@
   },
   {
     "id": "adv-qfunc-8",
-    "domain": "advanced",
-    "topic": "Nonlinear functions",
-    "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
-    "response": {
-      "type": "spr",
-      "answer": -3,
-      "tolerance": 0.01
-    },
-    "explanation": "Substitute x into the function."
-  },
-  {
-    "id": "adv-qfunc-9",
     "domain": "advanced",
     "topic": "Nonlinear functions",
     "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
@@ -1596,18 +1128,6 @@
     "explanation": "$\\sqrt{32} = 4\\sqrt{2}$."
   },
   {
-    "id": "adv-rad-3",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{90}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{90} = 3\\sqrt{10}$."
-  },
-  {
     "id": "adv-rad-4",
     "domain": "advanced",
     "topic": "Radicals",
@@ -1642,18 +1162,6 @@
       "tolerance": 0.01
     },
     "explanation": "$\\sqrt{63} = 3\\sqrt{7}$."
-  },
-  {
-    "id": "adv-rad-7",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
   },
   {
     "id": "adv-rad-8",
@@ -1740,18 +1248,6 @@
     "explanation": "$\\sqrt{98} = 7\\sqrt{2}$."
   },
   {
-    "id": "adv-rad-15",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
-  },
-  {
     "id": "adv-rad-16",
     "domain": "advanced",
     "topic": "Radicals",
@@ -1786,18 +1282,6 @@
       "tolerance": 0.01
     },
     "explanation": "$\\sqrt{150} = 5\\sqrt{6}$."
-  },
-  {
-    "id": "adv-rad-19",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{490}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{490} = 7\\sqrt{10}$."
   },
   {
     "id": "adv-rad-20",
@@ -1858,5 +1342,324 @@
       "tolerance": 0.01
     },
     "explanation": "$\\sqrt{180} = 6\\sqrt{5}$."
+  },
+  {
+    "id": "adv-expmodel-0",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 2500 and grows by a factor of 0.92 each year. What is the population after 5 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1648,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 2500 \\times 0.92^{5} \\approx 1648$."
+  },
+  {
+    "id": "adv-expmodel-1",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 200 and grows by a factor of 0.92 each year. What is the population after 3 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 156,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 200 \\times 0.92^{3} \\approx 156$."
+  },
+  {
+    "id": "adv-expmodel-2",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 100 and grows by a factor of 0.92 each year. What is the population after 5 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 66,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 100 \\times 0.92^{5} \\approx 66$."
+  },
+  {
+    "id": "adv-expmodel-3",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 2500 and grows by a factor of 1.12 each year. What is the population after 6 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 4935,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 2500 \\times 1.12^{6} \\approx 4935$."
+  },
+  {
+    "id": "adv-expmodel-4",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 1000 and grows by a factor of 1.12 each year. What is the population after 6 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1974,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 1000 \\times 1.12^{6} \\approx 1974$."
+  },
+  {
+    "id": "adv-expmodel-6",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 1000 and grows by a factor of 1.08 each year. What is the population after 4 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1360,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 1000 \\times 1.08^{4} \\approx 1360$."
+  },
+  {
+    "id": "adv-expmodel-7",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 500 and grows by a factor of 1.05 each year. What is the population after 2 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 551,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 500 \\times 1.05^{2} \\approx 551$."
+  },
+  {
+    "id": "adv-expmodel-8",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 200 and grows by a factor of 0.85 each year. What is the population after 5 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 89,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 200 \\times 0.85^{5} \\approx 89$."
+  },
+  {
+    "id": "adv-expmodel-9",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 2500 and grows by a factor of 0.92 each year. What is the population after 4 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1791,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 2500 \\times 0.92^{4} \\approx 1791$."
+  },
+  {
+    "id": "adv-vertex-0",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = -1(x - 1)^2 + 20$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(1, 20)$",
+        "$(-1, 20)$",
+        "$(1, -20)$",
+        "$(-1, 20)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-1",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 2(x - 4)^2 + 18$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 18)$",
+        "$(-4, 18)$",
+        "$(4, -18)$",
+        "$(2, 18)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-2",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = -2(x - 1)^2 + 15$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(1, 15)$",
+        "$(-1, 15)$",
+        "$(1, -15)$",
+        "$(-2, 15)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-3",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 2(x - -2)^2 + 19$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(-2, 19)$",
+        "$(2, 19)$",
+        "$(-2, -19)$",
+        "$(2, 19)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-4",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 1(x - 4)^2 + 10$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 10)$",
+        "$(-4, 10)$",
+        "$(4, -10)$",
+        "$(1, 10)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-5",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 2(x - 4)^2 + 7$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 7)$",
+        "$(-4, 7)$",
+        "$(4, -7)$",
+        "$(2, 7)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-6",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 1(x - 4)^2 + 16$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 16)$",
+        "$(-4, 16)$",
+        "$(4, -16)$",
+        "$(1, 16)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-7",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = -2(x - 0)^2 + 18$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(0, 18)$",
+        "$(0, 18)$",
+        "$(0, -18)$",
+        "$(-2, 18)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-comp-0",
+    "domain": "advanced",
+    "topic": "Function notation",
+    "question": "If $f(x) = 2x + 3$ and $g(x) = x^2$, what is $f(g(2))$?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "$g(2) = 4$, then $f(4) = 11$."
+  },
+  {
+    "id": "adv-abs-1",
+    "domain": "advanced",
+    "topic": "Absolute value",
+    "question": "Solve $|x - 4| = 7$. What is the positive solution?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "$x - 4 = 7$ or $x - 4 = -7$, so $x = 11$ or $x = -3$."
+  },
+  {
+    "id": "adv-factor-0",
+    "domain": "advanced",
+    "topic": "Equivalent expressions",
+    "question": "Which is equivalent to $x^2 - 6x + 9$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(x - 3)^2$",
+        "$(x + 3)^2$",
+        "$(x - 3)(x + 3)$",
+        "$x(x - 6) + 9$"
+      ],
+      "correct": 0
+    },
+    "explanation": "This is a perfect square trinomial."
+  },
+  {
+    "id": "adv-factor-1",
+    "domain": "advanced",
+    "topic": "Equivalent expressions",
+    "question": "Which is equivalent to $x^2 - 10x + 25$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(x - 5)^2$",
+        "$(x + 5)^2$",
+        "$(x - 5)(x + 5)$",
+        "$x(x - 10) + 25$"
+      ],
+      "correct": 0
+    },
+    "explanation": "This is a perfect square trinomial."
+  },
+  {
+    "id": "adv-factor-2",
+    "domain": "advanced",
+    "topic": "Equivalent expressions",
+    "question": "Which is equivalent to $x^2 - 4x + 4$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(x - 2)^2$",
+        "$(x + 2)^2$",
+        "$(x - 2)(x + 2)$",
+        "$x(x - 4) + 4$"
+      ],
+      "correct": 0
+    },
+    "explanation": "This is a perfect square trinomial."
   }
 ]

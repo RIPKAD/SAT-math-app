@@ -504,30 +504,6 @@
     "explanation": "Subtract -3, then divide by 3."
   },
   {
-    "id": "alg-lin-42",
-    "domain": "algebra",
-    "topic": "Linear equations in one variable",
-    "question": "Solve for $x$: $5x + -7 = 45$.",
-    "response": {
-      "type": "spr",
-      "answer": 10.4,
-      "tolerance": 0.01
-    },
-    "explanation": "Subtract -7, then divide by 5."
-  },
-  {
-    "id": "alg-lin-43",
-    "domain": "algebra",
-    "topic": "Linear equations in one variable",
-    "question": "Solve for $x$: $2x + 12 = 39$.",
-    "response": {
-      "type": "spr",
-      "answer": 13.5,
-      "tolerance": 0.01
-    },
-    "explanation": "Subtract 12, then divide by 2."
-  },
-  {
     "id": "alg-lin-44",
     "domain": "algebra",
     "topic": "Linear equations in one variable",
@@ -1918,5 +1894,448 @@
       "tolerance": 0.01
     },
     "explanation": "Substitute the x-value."
+  },
+  {
+    "id": "alg-ctx-0",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A plumber charges a $75 service fee plus $45 per hour. Which equation represents the total cost $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 45h + 75$",
+        "$C = 75h + 45$",
+        "$C = 45h - 75$",
+        "$C = 75 + 45/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 45h + 75$."
+  },
+  {
+    "id": "alg-ctx-1",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A phone plan costs $20 per month plus $0.10 per text. Which equation represents the total monthly cost $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 0.1h + 20$",
+        "$C = 20h + 0.1$",
+        "$C = 0.1h - 20$",
+        "$C = 20 + 0.1/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 0.1h + 20$."
+  },
+  {
+    "id": "alg-ctx-2",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A taxi charges $3.50 plus $2.25 per mile. Which equation represents the total fare $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 2.25h + 3.5$",
+        "$C = 3.5h + 2.25$",
+        "$C = 2.25h - 3.5$",
+        "$C = 3.5 + 2.25/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 2.25h + 3.5$."
+  },
+  {
+    "id": "alg-ctx-3",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A gym membership is $40 to join plus $25 per month. Which equation represents the total total cost $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 25h + 40$",
+        "$C = 40h + 25$",
+        "$C = 25h - 40$",
+        "$C = 40 + 25/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 25h + 40$."
+  },
+  {
+    "id": "alg-slopeint-0",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 10x + 12$ models a situation. What does the number $10$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-1",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 2.5x + 12$ models a situation. What does the number $2.5$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-2",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 3x + 12$ models a situation. What does the number $3$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-3",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 7.5x + 12$ models a situation. What does the number $7.5$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-6",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 5x + 12$ models a situation. What does the number $5$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-sysword-0",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $15 and child tickets cost $5. A group buys 9 tickets for a total of $75. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 9$ and $15a + 5c = 75$."
+  },
+  {
+    "id": "alg-sysword-1",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $9 and child tickets cost $6. A group buys 15 tickets for a total of $99. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 15$ and $9a + 6c = 99$."
+  },
+  {
+    "id": "alg-sysword-2",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $8 and child tickets cost $10. A group buys 20 tickets for a total of $184. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 20$ and $8a + 10c = 184$."
+  },
+  {
+    "id": "alg-sysword-3",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $5. A group buys 15 tickets for a total of $123. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 15$ and $13a + 5c = 123$."
+  },
+  {
+    "id": "alg-sysword-4",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $6. A group buys 12 tickets for a total of $114. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 12$ and $13a + 6c = 114$."
+  },
+  {
+    "id": "alg-sysword-5",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $4. A group buys 16 tickets for a total of $127. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 16$ and $13a + 4c = 127$."
+  },
+  {
+    "id": "alg-sysword-6",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $12 and child tickets cost $7. A group buys 13 tickets for a total of $111. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 13$ and $12a + 7c = 111$."
+  },
+  {
+    "id": "alg-sysword-7",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $8 and child tickets cost $10. A group buys 18 tickets for a total of $164. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 18$ and $8a + 10c = 164$."
+  },
+  {
+    "id": "alg-sysword-8",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $7. A group buys 12 tickets for a total of $120. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 12$ and $13a + 7c = 120$."
+  },
+  {
+    "id": "alg-sysword-9",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $14 and child tickets cost $8. A group buys 19 tickets for a total of $194. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 19$ and $14a + 8c = 194$."
+  },
+  {
+    "id": "alg-nosol-1",
+    "domain": "algebra",
+    "topic": "Number of solutions",
+    "question": "How many solutions does the system $2x + 3y = 6$ and $4x + 6y = 15$ have?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "0",
+        "1",
+        "Infinitely many",
+        "2"
+      ],
+      "correct": 0
+    },
+    "explanation": "The lines are parallel (same slope, different intercept) so no solution."
+  },
+  {
+    "id": "alg-infsol-1",
+    "domain": "algebra",
+    "topic": "Number of solutions",
+    "question": "How many solutions does the system $x - 2y = 4$ and $2x - 4y = 8$ have?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "0",
+        "1",
+        "Infinitely many",
+        "2"
+      ],
+      "correct": 2
+    },
+    "explanation": "The second equation is a multiple of the first, so infinitely many solutions."
+  },
+  {
+    "id": "alg-equiv-0",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $2(x + 7) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$0x + 14$",
+        "$4x + 14$",
+        "$2x + 7 - 2x$",
+        "$2x + 12$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $2x + 14 - 2x = 0x + 14$."
+  },
+  {
+    "id": "alg-equiv-1",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 8) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 48$",
+        "$8x + 48$",
+        "$6x + 8 - 2x$",
+        "$6x + 46$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 48 - 2x = 4x + 48$."
+  },
+  {
+    "id": "alg-equiv-2",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $5(x + 5) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$3x + 25$",
+        "$7x + 25$",
+        "$5x + 5 - 2x$",
+        "$5x + 23$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $5x + 25 - 2x = 3x + 25$."
+  },
+  {
+    "id": "alg-equiv-3",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $5(x + 8) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$3x + 40$",
+        "$7x + 40$",
+        "$5x + 8 - 2x$",
+        "$5x + 38$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $5x + 40 - 2x = 3x + 40$."
+  },
+  {
+    "id": "alg-equiv-4",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 1) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 6$",
+        "$8x + 6$",
+        "$6x + 1 - 2x$",
+        "$6x + 4$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 6 - 2x = 4x + 6$."
+  },
+  {
+    "id": "alg-equiv-5",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 4) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 24$",
+        "$8x + 24$",
+        "$6x + 4 - 2x$",
+        "$6x + 22$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 24 - 2x = 4x + 24$."
+  },
+  {
+    "id": "alg-equiv-6",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $3(x + 1) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$1x + 3$",
+        "$5x + 3$",
+        "$3x + 1 - 2x$",
+        "$3x + 1$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $3x + 3 - 2x = 1x + 3$."
+  },
+  {
+    "id": "alg-equiv-7",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 2) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 12$",
+        "$8x + 12$",
+        "$6x + 2 - 2x$",
+        "$6x + 10$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 12 - 2x = 4x + 12$."
   }
 ]

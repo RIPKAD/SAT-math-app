@@ -504,30 +504,6 @@
     "explanation": "Subtract -3, then divide by 3."
   },
   {
-    "id": "alg-lin-42",
-    "domain": "algebra",
-    "topic": "Linear equations in one variable",
-    "question": "Solve for $x$: $5x + -7 = 45$.",
-    "response": {
-      "type": "spr",
-      "answer": 10.4,
-      "tolerance": 0.01
-    },
-    "explanation": "Subtract -7, then divide by 5."
-  },
-  {
-    "id": "alg-lin-43",
-    "domain": "algebra",
-    "topic": "Linear equations in one variable",
-    "question": "Solve for $x$: $2x + 12 = 39$.",
-    "response": {
-      "type": "spr",
-      "answer": 13.5,
-      "tolerance": 0.01
-    },
-    "explanation": "Subtract 12, then divide by 2."
-  },
-  {
     "id": "alg-lin-44",
     "domain": "algebra",
     "topic": "Linear equations in one variable",
@@ -1920,6 +1896,449 @@
     "explanation": "Substitute the x-value."
   },
   {
+    "id": "alg-ctx-0",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A plumber charges a $75 service fee plus $45 per hour. Which equation represents the total cost $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 45h + 75$",
+        "$C = 75h + 45$",
+        "$C = 45h - 75$",
+        "$C = 75 + 45/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 45h + 75$."
+  },
+  {
+    "id": "alg-ctx-1",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A phone plan costs $20 per month plus $0.10 per text. Which equation represents the total monthly cost $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 0.1h + 20$",
+        "$C = 20h + 0.1$",
+        "$C = 0.1h - 20$",
+        "$C = 20 + 0.1/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 0.1h + 20$."
+  },
+  {
+    "id": "alg-ctx-2",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A taxi charges $3.50 plus $2.25 per mile. Which equation represents the total fare $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 2.25h + 3.5$",
+        "$C = 3.5h + 2.25$",
+        "$C = 2.25h - 3.5$",
+        "$C = 3.5 + 2.25/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 2.25h + 3.5$."
+  },
+  {
+    "id": "alg-ctx-3",
+    "domain": "algebra",
+    "topic": "Linear equations in context",
+    "question": "A gym membership is $40 to join plus $25 per month. Which equation represents the total total cost $C$ after $h$ hours (or units)?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$C = 25h + 40$",
+        "$C = 40h + 25$",
+        "$C = 25h - 40$",
+        "$C = 40 + 25/h$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Fixed fee is the intercept, rate is the slope: $C = 25h + 40$."
+  },
+  {
+    "id": "alg-slopeint-0",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 10x + 12$ models a situation. What does the number $10$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-1",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 2.5x + 12$ models a situation. What does the number $2.5$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-2",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 3x + 12$ models a situation. What does the number $3$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-3",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 7.5x + 12$ models a situation. What does the number $7.5$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-slopeint-6",
+    "domain": "algebra",
+    "topic": "Interpreting linear functions",
+    "question": "The equation $y = 5x + 12$ models a situation. What does the number $5$ represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The rate of change (slope)",
+        "The starting value (y-intercept)",
+        "The total after 1 unit",
+        "The maximum value"
+      ],
+      "correct": 0
+    },
+    "explanation": "In $y = mx + b$, $m$ is the rate of change."
+  },
+  {
+    "id": "alg-sysword-0",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $15 and child tickets cost $5. A group buys 9 tickets for a total of $75. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 9$ and $15a + 5c = 75$."
+  },
+  {
+    "id": "alg-sysword-1",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $9 and child tickets cost $6. A group buys 15 tickets for a total of $99. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 3,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 15$ and $9a + 6c = 99$."
+  },
+  {
+    "id": "alg-sysword-2",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $8 and child tickets cost $10. A group buys 20 tickets for a total of $184. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 20$ and $8a + 10c = 184$."
+  },
+  {
+    "id": "alg-sysword-3",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $5. A group buys 15 tickets for a total of $123. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 15$ and $13a + 5c = 123$."
+  },
+  {
+    "id": "alg-sysword-4",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $6. A group buys 12 tickets for a total of $114. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 12$ and $13a + 6c = 114$."
+  },
+  {
+    "id": "alg-sysword-5",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $4. A group buys 16 tickets for a total of $127. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 16$ and $13a + 4c = 127$."
+  },
+  {
+    "id": "alg-sysword-6",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $12 and child tickets cost $7. A group buys 13 tickets for a total of $111. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 4,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 13$ and $12a + 7c = 111$."
+  },
+  {
+    "id": "alg-sysword-7",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $8 and child tickets cost $10. A group buys 18 tickets for a total of $164. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 8,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 18$ and $8a + 10c = 164$."
+  },
+  {
+    "id": "alg-sysword-8",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $13 and child tickets cost $7. A group buys 12 tickets for a total of $120. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 6,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 12$ and $13a + 7c = 120$."
+  },
+  {
+    "id": "alg-sysword-9",
+    "domain": "algebra",
+    "topic": "Systems of equations word problems",
+    "question": "Adult tickets cost $14 and child tickets cost $8. A group buys 19 tickets for a total of $194. How many adult tickets were purchased?",
+    "response": {
+      "type": "spr",
+      "answer": 7,
+      "tolerance": 0.01
+    },
+    "explanation": "Let $a$ = adult tickets. Then $a + c = 19$ and $14a + 8c = 194$."
+  },
+  {
+    "id": "alg-nosol-1",
+    "domain": "algebra",
+    "topic": "Number of solutions",
+    "question": "How many solutions does the system $2x + 3y = 6$ and $4x + 6y = 15$ have?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "0",
+        "1",
+        "Infinitely many",
+        "2"
+      ],
+      "correct": 0
+    },
+    "explanation": "The lines are parallel (same slope, different intercept) so no solution."
+  },
+  {
+    "id": "alg-infsol-1",
+    "domain": "algebra",
+    "topic": "Number of solutions",
+    "question": "How many solutions does the system $x - 2y = 4$ and $2x - 4y = 8$ have?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "0",
+        "1",
+        "Infinitely many",
+        "2"
+      ],
+      "correct": 2
+    },
+    "explanation": "The second equation is a multiple of the first, so infinitely many solutions."
+  },
+  {
+    "id": "alg-equiv-0",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $2(x + 7) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$0x + 14$",
+        "$4x + 14$",
+        "$2x + 7 - 2x$",
+        "$2x + 12$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $2x + 14 - 2x = 0x + 14$."
+  },
+  {
+    "id": "alg-equiv-1",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 8) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 48$",
+        "$8x + 48$",
+        "$6x + 8 - 2x$",
+        "$6x + 46$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 48 - 2x = 4x + 48$."
+  },
+  {
+    "id": "alg-equiv-2",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $5(x + 5) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$3x + 25$",
+        "$7x + 25$",
+        "$5x + 5 - 2x$",
+        "$5x + 23$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $5x + 25 - 2x = 3x + 25$."
+  },
+  {
+    "id": "alg-equiv-3",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $5(x + 8) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$3x + 40$",
+        "$7x + 40$",
+        "$5x + 8 - 2x$",
+        "$5x + 38$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $5x + 40 - 2x = 3x + 40$."
+  },
+  {
+    "id": "alg-equiv-4",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 1) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 6$",
+        "$8x + 6$",
+        "$6x + 1 - 2x$",
+        "$6x + 4$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 6 - 2x = 4x + 6$."
+  },
+  {
+    "id": "alg-equiv-5",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 4) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 24$",
+        "$8x + 24$",
+        "$6x + 4 - 2x$",
+        "$6x + 22$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 24 - 2x = 4x + 24$."
+  },
+  {
+    "id": "alg-equiv-6",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $3(x + 1) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$1x + 3$",
+        "$5x + 3$",
+        "$3x + 1 - 2x$",
+        "$3x + 1$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $3x + 3 - 2x = 1x + 3$."
+  },
+  {
+    "id": "alg-equiv-7",
+    "domain": "algebra",
+    "topic": "Equivalent expressions",
+    "question": "Which expression is equivalent to $6(x + 2) - 2x$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$4x + 12$",
+        "$8x + 12$",
+        "$6x + 2 - 2x$",
+        "$6x + 10$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Distribute: $6x + 12 - 2x = 4x + 12$."
+  },
+  {
     "id": "adv-quad-0",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -1992,18 +2411,6 @@
     "explanation": "Factors as $(x--5)(x-7)=0$."
   },
   {
-    "id": "adv-quad-6",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x-3)=0$."
-  },
-  {
     "id": "adv-quad-7",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2014,18 +2421,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x--2)(x-3)=0$."
-  },
-  {
-    "id": "adv-quad-8",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -8x + 15 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x-3)=0$."
   },
   {
     "id": "adv-quad-9",
@@ -2124,18 +2519,6 @@
     "explanation": "Factors as $(x-7)(x-5)=0$."
   },
   {
-    "id": "adv-quad-17",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -2x + -24 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--4)(x-6)=0$."
-  },
-  {
     "id": "adv-quad-18",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2208,30 +2591,6 @@
     "explanation": "Factors as $(x--5)(x-6)=0$."
   },
   {
-    "id": "adv-quad-24",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -1x + -6 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-3)(x--2)=0$."
-  },
-  {
-    "id": "adv-quad-25",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -2x + -35 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--5)(x-7)=0$."
-  },
-  {
     "id": "adv-quad-26",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2280,18 +2639,6 @@
     "explanation": "Factors as $(x-7)(x-4)=0$."
   },
   {
-    "id": "adv-quad-30",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -11x + 28 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-7)(x-4)=0$."
-  },
-  {
     "id": "adv-quad-31",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2316,18 +2663,6 @@
     "explanation": "Factors as $(x-3)(x-4)=0$."
   },
   {
-    "id": "adv-quad-33",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -1x + 0 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 1,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-0)(x-1)=0$."
-  },
-  {
     "id": "adv-quad-34",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2338,18 +2673,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x--7)(x-4)=0$."
-  },
-  {
-    "id": "adv-quad-35",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": -4,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--7)(x--4)=0$."
   },
   {
     "id": "adv-quad-36",
@@ -2364,18 +2687,6 @@
     "explanation": "Factors as $(x--6)(x-4)=0$."
   },
   {
-    "id": "adv-quad-37",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -9x + 18 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-6)(x-3)=0$."
-  },
-  {
     "id": "adv-quad-38",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2386,18 +2697,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x--4)(x--1)=0$."
-  },
-  {
-    "id": "adv-quad-39",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -12x + 35 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x-7)=0$."
   },
   {
     "id": "adv-quad-40",
@@ -2532,18 +2831,6 @@
     "explanation": "Factors as $(x-5)(x--7)=0$."
   },
   {
-    "id": "adv-quad-51",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 11x + 28 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": -4,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--4)(x--7)=0$."
-  },
-  {
     "id": "adv-quad-52",
     "domain": "advanced",
     "topic": "Quadratic equations",
@@ -2554,18 +2841,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x-1)(x-3)=0$."
-  },
-  {
-    "id": "adv-quad-53",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 8x + 15 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": -3,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x--3)(x--5)=0$."
   },
   {
     "id": "adv-quad-54",
@@ -2590,42 +2865,6 @@
       "tolerance": 0.01
     },
     "explanation": "Factors as $(x-2)(x--2)=0$."
-  },
-  {
-    "id": "adv-quad-56",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -6x + 0 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-6)(x-0)=0$."
-  },
-  {
-    "id": "adv-quad-57",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + -1x + -42 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-7)(x--6)=0$."
-  },
-  {
-    "id": "adv-quad-58",
-    "domain": "advanced",
-    "topic": "Quadratic equations",
-    "question": "Solve $x^2 + 2x + -35 = 0$. What is the larger root?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "Factors as $(x-5)(x--7)=0$."
   },
   {
     "id": "adv-quad-59",
@@ -2676,18 +2915,6 @@
     "explanation": "$4^{5} = 1024$."
   },
   {
-    "id": "adv-exp-3",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 1024$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{5} = 1024$."
-  },
-  {
     "id": "adv-exp-4",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -2712,30 +2939,6 @@
     "explanation": "$5^{2} = 25$."
   },
   {
-    "id": "adv-exp-6",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 32$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{5} = 32$."
-  },
-  {
-    "id": "adv-exp-7",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 4$.",
-    "response": {
-      "type": "spr",
-      "answer": 2,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{2} = 4$."
-  },
-  {
     "id": "adv-exp-8",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -2746,18 +2949,6 @@
       "tolerance": 0.01
     },
     "explanation": "$4^{2} = 16$."
-  },
-  {
-    "id": "adv-exp-9",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
   },
   {
     "id": "adv-exp-10",
@@ -2808,18 +2999,6 @@
     "explanation": "$5^{6} = 15625$."
   },
   {
-    "id": "adv-exp-14",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
-  },
-  {
     "id": "adv-exp-15",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -2844,42 +3023,6 @@
     "explanation": "$2^{4} = 16$."
   },
   {
-    "id": "adv-exp-17",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 25$.",
-    "response": {
-      "type": "spr",
-      "answer": 2,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{2} = 25$."
-  },
-  {
-    "id": "adv-exp-18",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $3^x = 243$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^{5} = 243$."
-  },
-  {
-    "id": "adv-exp-19",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 4096$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{6} = 4096$."
-  },
-  {
     "id": "adv-exp-20",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -2890,42 +3033,6 @@
       "tolerance": 0.01
     },
     "explanation": "$3^{4} = 81$."
-  },
-  {
-    "id": "adv-exp-21",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
-  },
-  {
-    "id": "adv-exp-22",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 15625$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{6} = 15625$."
-  },
-  {
-    "id": "adv-exp-23",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 32$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{5} = 32$."
   },
   {
     "id": "adv-exp-24",
@@ -2940,30 +3047,6 @@
     "explanation": "$5^{5} = 3125$."
   },
   {
-    "id": "adv-exp-25",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 4096$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{6} = 4096$."
-  },
-  {
-    "id": "adv-exp-26",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $3^x = 81$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^{4} = 81$."
-  },
-  {
     "id": "adv-exp-27",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -2974,18 +3057,6 @@
       "tolerance": 0.01
     },
     "explanation": "$2^{3} = 8$."
-  },
-  {
-    "id": "adv-exp-28",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 625$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{4} = 625$."
   },
   {
     "id": "adv-exp-29",
@@ -3000,42 +3071,6 @@
     "explanation": "$4^{3} = 64$."
   },
   {
-    "id": "adv-exp-30",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{6} = 64$."
-  },
-  {
-    "id": "adv-exp-31",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 1024$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{5} = 1024$."
-  },
-  {
-    "id": "adv-exp-32",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 16$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{4} = 16$."
-  },
-  {
     "id": "adv-exp-33",
     "domain": "advanced",
     "topic": "Exponential equations",
@@ -3046,78 +3081,6 @@
       "tolerance": 0.01
     },
     "explanation": "$4^{4} = 256$."
-  },
-  {
-    "id": "adv-exp-34",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 15625$.",
-    "response": {
-      "type": "spr",
-      "answer": 6,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{6} = 15625$."
-  },
-  {
-    "id": "adv-exp-35",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $2^x = 16$.",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "$2^{4} = 16$."
-  },
-  {
-    "id": "adv-exp-36",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 25$.",
-    "response": {
-      "type": "spr",
-      "answer": 2,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{2} = 25$."
-  },
-  {
-    "id": "adv-exp-37",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $5^x = 3125$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^{5} = 3125$."
-  },
-  {
-    "id": "adv-exp-38",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 1024$.",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{5} = 1024$."
-  },
-  {
-    "id": "adv-exp-39",
-    "domain": "advanced",
-    "topic": "Exponential equations",
-    "question": "Solve $4^x = 64$.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$4^{3} = 64$."
   },
   {
     "id": "adv-qfunc-0",
@@ -3217,18 +3180,6 @@
   },
   {
     "id": "adv-qfunc-8",
-    "domain": "advanced",
-    "topic": "Nonlinear functions",
-    "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
-    "response": {
-      "type": "spr",
-      "answer": -3,
-      "tolerance": 0.01
-    },
-    "explanation": "Substitute x into the function."
-  },
-  {
-    "id": "adv-qfunc-9",
     "domain": "advanced",
     "topic": "Nonlinear functions",
     "question": "If $f(x) = 4x^2 + -4x + -11$, what is $f(2)$?",
@@ -3516,18 +3467,6 @@
     "explanation": "$\\sqrt{32} = 4\\sqrt{2}$."
   },
   {
-    "id": "adv-rad-3",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{90}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{90} = 3\\sqrt{10}$."
-  },
-  {
     "id": "adv-rad-4",
     "domain": "advanced",
     "topic": "Radicals",
@@ -3562,18 +3501,6 @@
       "tolerance": 0.01
     },
     "explanation": "$\\sqrt{63} = 3\\sqrt{7}$."
-  },
-  {
-    "id": "adv-rad-7",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
   },
   {
     "id": "adv-rad-8",
@@ -3660,18 +3587,6 @@
     "explanation": "$\\sqrt{98} = 7\\sqrt{2}$."
   },
   {
-    "id": "adv-rad-15",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{45}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 3,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{45} = 3\\sqrt{5}$."
-  },
-  {
     "id": "adv-rad-16",
     "domain": "advanced",
     "topic": "Radicals",
@@ -3706,18 +3621,6 @@
       "tolerance": 0.01
     },
     "explanation": "$\\sqrt{150} = 5\\sqrt{6}$."
-  },
-  {
-    "id": "adv-rad-19",
-    "domain": "advanced",
-    "topic": "Radicals",
-    "question": "Simplify $\\sqrt{490}$. Enter the integer coefficient in front of the remaining radical.",
-    "response": {
-      "type": "spr",
-      "answer": 7,
-      "tolerance": 0.01
-    },
-    "explanation": "$\\sqrt{490} = 7\\sqrt{10}$."
   },
   {
     "id": "adv-rad-20",
@@ -3778,6 +3681,325 @@
       "tolerance": 0.01
     },
     "explanation": "$\\sqrt{180} = 6\\sqrt{5}$."
+  },
+  {
+    "id": "adv-expmodel-0",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 2500 and grows by a factor of 0.92 each year. What is the population after 5 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1648,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 2500 \\times 0.92^{5} \\approx 1648$."
+  },
+  {
+    "id": "adv-expmodel-1",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 200 and grows by a factor of 0.92 each year. What is the population after 3 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 156,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 200 \\times 0.92^{3} \\approx 156$."
+  },
+  {
+    "id": "adv-expmodel-2",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 100 and grows by a factor of 0.92 each year. What is the population after 5 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 66,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 100 \\times 0.92^{5} \\approx 66$."
+  },
+  {
+    "id": "adv-expmodel-3",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 2500 and grows by a factor of 1.12 each year. What is the population after 6 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 4935,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 2500 \\times 1.12^{6} \\approx 4935$."
+  },
+  {
+    "id": "adv-expmodel-4",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 1000 and grows by a factor of 1.12 each year. What is the population after 6 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1974,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 1000 \\times 1.12^{6} \\approx 1974$."
+  },
+  {
+    "id": "adv-expmodel-6",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 1000 and grows by a factor of 1.08 each year. What is the population after 4 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1360,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 1000 \\times 1.08^{4} \\approx 1360$."
+  },
+  {
+    "id": "adv-expmodel-7",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 500 and grows by a factor of 1.05 each year. What is the population after 2 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 551,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 500 \\times 1.05^{2} \\approx 551$."
+  },
+  {
+    "id": "adv-expmodel-8",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 200 and grows by a factor of 0.85 each year. What is the population after 5 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 89,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 200 \\times 0.85^{5} \\approx 89$."
+  },
+  {
+    "id": "adv-expmodel-9",
+    "domain": "advanced",
+    "topic": "Exponential models",
+    "question": "A population starts at 2500 and grows by a factor of 0.92 each year. What is the population after 4 years (rounded to nearest whole number)?",
+    "response": {
+      "type": "spr",
+      "answer": 1791,
+      "tolerance": 0.01
+    },
+    "explanation": "$P = 2500 \\times 0.92^{4} \\approx 1791$."
+  },
+  {
+    "id": "adv-vertex-0",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = -1(x - 1)^2 + 20$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(1, 20)$",
+        "$(-1, 20)$",
+        "$(1, -20)$",
+        "$(-1, 20)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-1",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 2(x - 4)^2 + 18$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 18)$",
+        "$(-4, 18)$",
+        "$(4, -18)$",
+        "$(2, 18)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-2",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = -2(x - 1)^2 + 15$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(1, 15)$",
+        "$(-1, 15)$",
+        "$(1, -15)$",
+        "$(-2, 15)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-3",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 2(x - -2)^2 + 19$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(-2, 19)$",
+        "$(2, 19)$",
+        "$(-2, -19)$",
+        "$(2, 19)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-4",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 1(x - 4)^2 + 10$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 10)$",
+        "$(-4, 10)$",
+        "$(4, -10)$",
+        "$(1, 10)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-5",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 2(x - 4)^2 + 7$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 7)$",
+        "$(-4, 7)$",
+        "$(4, -7)$",
+        "$(2, 7)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-6",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = 1(x - 4)^2 + 16$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(4, 16)$",
+        "$(-4, 16)$",
+        "$(4, -16)$",
+        "$(1, 16)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-vertex-7",
+    "domain": "advanced",
+    "topic": "Quadratic functions",
+    "question": "The quadratic $f(x) = -2(x - 0)^2 + 18$ has its vertex at which point?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(0, 18)$",
+        "$(0, 18)$",
+        "$(0, -18)$",
+        "$(-2, 18)$"
+      ],
+      "correct": 0
+    },
+    "explanation": "Vertex form $a(x-h)^2 + k$ has vertex $(h, k)$."
+  },
+  {
+    "id": "adv-comp-0",
+    "domain": "advanced",
+    "topic": "Function notation",
+    "question": "If $f(x) = 2x + 3$ and $g(x) = x^2$, what is $f(g(2))$?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "$g(2) = 4$, then $f(4) = 11$."
+  },
+  {
+    "id": "adv-abs-1",
+    "domain": "advanced",
+    "topic": "Absolute value",
+    "question": "Solve $|x - 4| = 7$. What is the positive solution?",
+    "response": {
+      "type": "spr",
+      "answer": 11,
+      "tolerance": 0.01
+    },
+    "explanation": "$x - 4 = 7$ or $x - 4 = -7$, so $x = 11$ or $x = -3$."
+  },
+  {
+    "id": "adv-factor-0",
+    "domain": "advanced",
+    "topic": "Equivalent expressions",
+    "question": "Which is equivalent to $x^2 - 6x + 9$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(x - 3)^2$",
+        "$(x + 3)^2$",
+        "$(x - 3)(x + 3)$",
+        "$x(x - 6) + 9$"
+      ],
+      "correct": 0
+    },
+    "explanation": "This is a perfect square trinomial."
+  },
+  {
+    "id": "adv-factor-1",
+    "domain": "advanced",
+    "topic": "Equivalent expressions",
+    "question": "Which is equivalent to $x^2 - 10x + 25$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(x - 5)^2$",
+        "$(x + 5)^2$",
+        "$(x - 5)(x + 5)$",
+        "$x(x - 10) + 25$"
+      ],
+      "correct": 0
+    },
+    "explanation": "This is a perfect square trinomial."
+  },
+  {
+    "id": "adv-factor-2",
+    "domain": "advanced",
+    "topic": "Equivalent expressions",
+    "question": "Which is equivalent to $x^2 - 4x + 4$?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "$(x - 2)^2$",
+        "$(x + 2)^2$",
+        "$(x - 2)(x + 2)$",
+        "$x(x - 4) + 4$"
+      ],
+      "correct": 0
+    },
+    "explanation": "This is a perfect square trinomial."
   },
   {
     "id": "psda-pct-0",
@@ -3900,18 +4122,6 @@
     "explanation": "$20/100 \\times 300 = 60.0$."
   },
   {
-    "id": "psda-pct-10",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $100$?",
-    "response": {
-      "type": "spr",
-      "answer": 20.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 100 = 20.0$."
-  },
-  {
     "id": "psda-pct-11",
     "domain": "psda",
     "topic": "Percentages",
@@ -3922,18 +4132,6 @@
       "tolerance": 0.01
     },
     "explanation": "$5/100 \\times 300 = 15.0$."
-  },
-  {
-    "id": "psda-pct-12",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $100$?",
-    "response": {
-      "type": "spr",
-      "answer": 20.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 100 = 20.0$."
   },
   {
     "id": "psda-pct-13",
@@ -3958,30 +4156,6 @@
       "tolerance": 0.01
     },
     "explanation": "$15/100 \\times 40 = 6.0$."
-  },
-  {
-    "id": "psda-pct-15",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $30\\%$ of $60$?",
-    "response": {
-      "type": "spr",
-      "answer": 18.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$30/100 \\times 60 = 18.0$."
-  },
-  {
-    "id": "psda-pct-16",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 45.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 300 = 45.0$."
   },
   {
     "id": "psda-pct-17",
@@ -4032,30 +4206,6 @@
     "explanation": "$10/100 \\times 80 = 8.0$."
   },
   {
-    "id": "psda-pct-21",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $50\\%$ of $60$?",
-    "response": {
-      "type": "spr",
-      "answer": 30.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$50/100 \\times 60 = 30.0$."
-  },
-  {
-    "id": "psda-pct-22",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $150$?",
-    "response": {
-      "type": "spr",
-      "answer": 22.5,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 150 = 22.5$."
-  },
-  {
     "id": "psda-pct-23",
     "domain": "psda",
     "topic": "Percentages",
@@ -4078,18 +4228,6 @@
       "tolerance": 0.01
     },
     "explanation": "$5/100 \\times 250 = 12.5$."
-  },
-  {
-    "id": "psda-pct-25",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 60.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 300 = 60.0$."
   },
   {
     "id": "psda-pct-26",
@@ -4128,18 +4266,6 @@
     "explanation": "$15/100 \\times 100 = 15.0$."
   },
   {
-    "id": "psda-pct-29",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $200$?",
-    "response": {
-      "type": "spr",
-      "answer": 30.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 200 = 30.0$."
-  },
-  {
     "id": "psda-pct-30",
     "domain": "psda",
     "topic": "Percentages",
@@ -4164,18 +4290,6 @@
     "explanation": "$5/100 \\times 150 = 7.5$."
   },
   {
-    "id": "psda-pct-32",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $50\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 150.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$50/100 \\times 300 = 150.0$."
-  },
-  {
     "id": "psda-pct-33",
     "domain": "psda",
     "topic": "Percentages",
@@ -4186,30 +4300,6 @@
       "tolerance": 0.01
     },
     "explanation": "$40/100 \\times 100 = 40.0$."
-  },
-  {
-    "id": "psda-pct-34",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $150$?",
-    "response": {
-      "type": "spr",
-      "answer": 22.5,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 150 = 22.5$."
-  },
-  {
-    "id": "psda-pct-35",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $15\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 45.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$15/100 \\times 300 = 45.0$."
   },
   {
     "id": "psda-pct-36",
@@ -4248,18 +4338,6 @@
     "explanation": "$15/100 \\times 250 = 37.5$."
   },
   {
-    "id": "psda-pct-39",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $300$?",
-    "response": {
-      "type": "spr",
-      "answer": 60.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 300 = 60.0$."
-  },
-  {
     "id": "psda-pct-40",
     "domain": "psda",
     "topic": "Percentages",
@@ -4270,18 +4348,6 @@
       "tolerance": 0.01
     },
     "explanation": "$60/100 \\times 60 = 36.0$."
-  },
-  {
-    "id": "psda-pct-41",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $20\\%$ of $60$?",
-    "response": {
-      "type": "spr",
-      "answer": 12.0,
-      "tolerance": 0.01
-    },
-    "explanation": "$20/100 \\times 60 = 12.0$."
   },
   {
     "id": "psda-pct-42",
@@ -4354,18 +4420,6 @@
       "tolerance": 0.01
     },
     "explanation": "$40/100 \\times 80 = 32.0$."
-  },
-  {
-    "id": "psda-pct-48",
-    "domain": "psda",
-    "topic": "Percentages",
-    "question": "What is $25\\%$ of $50$?",
-    "response": {
-      "type": "spr",
-      "answer": 12.5,
-      "tolerance": 0.01
-    },
-    "explanation": "$25/100 \\times 50 = 12.5$."
   },
   {
     "id": "psda-pct-49",
@@ -5400,18 +5454,6 @@
     "explanation": "Probability = $7/25$."
   },
   {
-    "id": "psda-prob-15",
-    "domain": "psda",
-    "topic": "Probability",
-    "question": "There are $25$ items, $14$ of which are favorable. What is the probability (decimal) of selecting a favorable item?",
-    "response": {
-      "type": "spr",
-      "answer": 0.56,
-      "tolerance": 0.01
-    },
-    "explanation": "Probability = $14/25$."
-  },
-  {
     "id": "psda-prob-16",
     "domain": "psda",
     "topic": "Probability",
@@ -5580,6 +5622,371 @@
     "explanation": "Probability = $10/20$."
   },
   {
+    "id": "psda-pctchg-0",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $50 by 30%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 65.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 30/100)."
+  },
+  {
+    "id": "psda-pctchg-1",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $80 by 10%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 88.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 10/100)."
+  },
+  {
+    "id": "psda-pctchg-2",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $100 by 40%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 60.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 40/100)."
+  },
+  {
+    "id": "psda-pctchg-3",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $60 by 10%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 54.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 10/100)."
+  },
+  {
+    "id": "psda-pctchg-4",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $200 by 40%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 280.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 40/100)."
+  },
+  {
+    "id": "psda-pctchg-5",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $80 by 25%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 100.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 25/100)."
+  },
+  {
+    "id": "psda-pctchg-6",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $100 by 10%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 90.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 10/100)."
+  },
+  {
+    "id": "psda-pctchg-7",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $60 by 15%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 51.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 15/100)."
+  },
+  {
+    "id": "psda-pctchg-8",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $150 by 25%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 187.5,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 25/100)."
+  },
+  {
+    "id": "psda-pctchg-10",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price increases from $50 by 25%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 62.5,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 + 25/100)."
+  },
+  {
+    "id": "psda-pctchg-11",
+    "domain": "psda",
+    "topic": "Percent change",
+    "question": "A price decreases from $40 by 20%. What is the new price?",
+    "response": {
+      "type": "spr",
+      "answer": 32.0,
+      "tolerance": 0.01
+    },
+    "explanation": "New = original \u00d7 (1 - 20/100)."
+  },
+  {
+    "id": "psda-probscen-0",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 20 marbles: 5 red, 11 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.2,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 4, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-1",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 40 marbles: 15 red, 12 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 13, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-2",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 40 marbles: 15 red, 6 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.47,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 19, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-3",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 40 marbles: 19 red, 8 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.33,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 13, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-4",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 25 marbles: 8 red, 9 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.32,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 8, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-5",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 15 red, 17 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.36,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 18, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-6",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 12 red, 7 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.62,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 31, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-7",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 17 red, 4 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.58,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 29, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-8",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 25 marbles: 7 red, 3 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 15, so probability = green / total."
+  },
+  {
+    "id": "psda-probscen-9",
+    "domain": "psda",
+    "topic": "Probability",
+    "question": "A bag contains 50 marbles: 6 red, 31 blue, and the rest green. What is the probability of drawing a green marble?",
+    "response": {
+      "type": "spr",
+      "answer": 0.26,
+      "tolerance": 0.01
+    },
+    "explanation": "Green = 13, so probability = green / total."
+  },
+  {
+    "id": "psda-meandata-0",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 37, 34, 30, 16, 25?",
+    "response": {
+      "type": "spr",
+      "answer": 28.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-1",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 32, 31, 38, 10, 14?",
+    "response": {
+      "type": "spr",
+      "answer": 25.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-2",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 30, 26, 16, 35, 38?",
+    "response": {
+      "type": "spr",
+      "answer": 29.0,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-3",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 26, 38, 40, 14, 15?",
+    "response": {
+      "type": "spr",
+      "answer": 26.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-4",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 31, 37, 15, 22, 18?",
+    "response": {
+      "type": "spr",
+      "answer": 24.6,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-5",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 23, 27, 23, 37, 12?",
+    "response": {
+      "type": "spr",
+      "answer": 24.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-6",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 22, 19, 15, 21, 15?",
+    "response": {
+      "type": "spr",
+      "answer": 18.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-meandata-7",
+    "domain": "psda",
+    "topic": "Measures of center",
+    "question": "What is the mean of the data set: 18, 24, 25, 34, 36?",
+    "response": {
+      "type": "spr",
+      "answer": 27.4,
+      "tolerance": 0.01
+    },
+    "explanation": "Mean = sum of values / number of values."
+  },
+  {
+    "id": "psda-scatter-1",
+    "domain": "psda",
+    "topic": "Two-variable data",
+    "question": "A line of best fit for a scatterplot has equation $y = 1.8x + 4$. What does the slope 1.8 represent?",
+    "response": {
+      "type": "mc",
+      "choices": [
+        "The predicted increase in y for each 1-unit increase in x",
+        "The y-intercept",
+        "The correlation coefficient",
+        "The total number of data points"
+      ],
+      "correct": 0
+    },
+    "explanation": "Slope is the rate of change / predicted change in the response variable."
+  },
+  {
     "id": "geom-pyth-0",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -5604,18 +6011,6 @@
     "explanation": "$20^2 + 21^2 = 29^2$."
   },
   {
-    "id": "geom-pyth-2",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
     "id": "geom-pyth-3",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -5626,18 +6021,6 @@
       "tolerance": 0.01
     },
     "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-4",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
   },
   {
     "id": "geom-pyth-5",
@@ -5652,18 +6035,6 @@
     "explanation": "$6^2 + 8^2 = 10^2$."
   },
   {
-    "id": "geom-pyth-6",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 29,
-      "tolerance": 0.01
-    },
-    "explanation": "$20^2 + 21^2 = 29^2$."
-  },
-  {
     "id": "geom-pyth-7",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -5674,78 +6045,6 @@
       "tolerance": 0.01
     },
     "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-8",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "$6^2 + 8^2 = 10^2$."
-  },
-  {
-    "id": "geom-pyth-9",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-10",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-11",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-12",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "$6^2 + 8^2 = 10^2$."
-  },
-  {
-    "id": "geom-pyth-13",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
   },
   {
     "id": "geom-pyth-14",
@@ -5760,54 +6059,6 @@
     "explanation": "$8^2 + 15^2 = 17^2$."
   },
   {
-    "id": "geom-pyth-15",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-16",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
-    "id": "geom-pyth-17",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-18",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
     "id": "geom-pyth-19",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -5818,126 +6069,6 @@
       "tolerance": 0.01
     },
     "explanation": "$3^2 + 4^2 = 5^2$."
-  },
-  {
-    "id": "geom-pyth-20",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-21",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-22",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-23",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
-    "id": "geom-pyth-24",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-25",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-26",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^2 + 4^2 = 5^2$."
-  },
-  {
-    "id": "geom-pyth-27",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
-    "id": "geom-pyth-28",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-29",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
   },
   {
     "id": "geom-pyth-30",
@@ -5952,127 +6083,7 @@
     "explanation": "$9^2 + 40^2 = 41^2$."
   },
   {
-    "id": "geom-pyth-31",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-32",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-33",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-34",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 29,
-      "tolerance": 0.01
-    },
-    "explanation": "$20^2 + 21^2 = 29^2$."
-  },
-  {
-    "id": "geom-pyth-35",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-36",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $40$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 41,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 40^2 = 41^2$."
-  },
-  {
-    "id": "geom-pyth-37",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 29,
-      "tolerance": 0.01
-    },
-    "explanation": "$20^2 + 21^2 = 29^2$."
-  },
-  {
-    "id": "geom-pyth-38",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^2 + 4^2 = 5^2$."
-  },
-  {
-    "id": "geom-pyth-39",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
     "id": "geom-circ-0",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 196,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 196\\pi$."
-  },
-  {
-    "id": "geom-circ-1",
     "domain": "geometry",
     "topic": "Circles",
     "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
@@ -6109,18 +6120,6 @@
   },
   {
     "id": "geom-circ-4",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 9,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 9\\pi$."
-  },
-  {
-    "id": "geom-circ-5",
     "domain": "geometry",
     "topic": "Circles",
     "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
@@ -6180,91 +6179,7 @@
     "explanation": "Area $= 100\\pi$."
   },
   {
-    "id": "geom-circ-10",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
-  },
-  {
     "id": "geom-circ-11",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-12",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 100,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 100\\pi$."
-  },
-  {
-    "id": "geom-circ-13",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-14",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-15",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $2$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 4\\pi$."
-  },
-  {
-    "id": "geom-circ-16",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 100,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 100\\pi$."
-  },
-  {
-    "id": "geom-circ-17",
     "domain": "geometry",
     "topic": "Circles",
     "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
@@ -6288,18 +6203,6 @@
     "explanation": "Area $= 144\\pi$."
   },
   {
-    "id": "geom-circ-19",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $5$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 25\\pi$."
-  },
-  {
     "id": "geom-circ-20",
     "domain": "geometry",
     "topic": "Circles",
@@ -6310,18 +6213,6 @@
       "tolerance": 0.01
     },
     "explanation": "Area $= 49\\pi$."
-  },
-  {
-    "id": "geom-circ-21",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
   },
   {
     "id": "geom-circ-22",
@@ -6336,42 +6227,6 @@
     "explanation": "Area $= 16\\pi$."
   },
   {
-    "id": "geom-circ-23",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 16\\pi$."
-  },
-  {
-    "id": "geom-circ-24",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-25",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
-  },
-  {
     "id": "geom-circ-26",
     "domain": "geometry",
     "topic": "Circles",
@@ -6384,78 +6239,6 @@
     "explanation": "Area $= 121\\pi$."
   },
   {
-    "id": "geom-circ-27",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 16\\pi$."
-  },
-  {
-    "id": "geom-circ-28",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 121,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 121\\pi$."
-  },
-  {
-    "id": "geom-circ-29",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
-  },
-  {
-    "id": "geom-circ-30",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 121,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 121\\pi$."
-  },
-  {
-    "id": "geom-circ-31",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $12$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 144,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 144\\pi$."
-  },
-  {
-    "id": "geom-circ-32",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
     "id": "geom-circ-33",
     "domain": "geometry",
     "topic": "Circles",
@@ -6466,18 +6249,6 @@
       "tolerance": 0.01
     },
     "explanation": "Area $= 36\\pi$."
-  },
-  {
-    "id": "geom-circ-34",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
   },
   {
     "id": "geom-vol-0",
@@ -6876,18 +6647,6 @@
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
   },
   {
-    "id": "geom-3060-3",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
     "id": "geom-3060-4",
     "domain": "geometry",
     "topic": "Special right triangles",
@@ -6895,30 +6654,6 @@
     "response": {
       "type": "spr",
       "answer": 14,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-5",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-6",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
       "tolerance": 0.01
     },
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
@@ -6948,18 +6683,6 @@
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
   },
   {
-    "id": "geom-3060-9",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $7$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 14,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
     "id": "geom-3060-10",
     "domain": "geometry",
     "topic": "Special right triangles",
@@ -6967,18 +6690,6 @@
     "response": {
       "type": "spr",
       "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-11",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
       "tolerance": 0.01
     },
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
@@ -6996,18 +6707,6 @@
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
   },
   {
-    "id": "geom-3060-13",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
     "id": "geom-3060-14",
     "domain": "geometry",
     "topic": "Special right triangles",
@@ -7015,126 +6714,6 @@
     "response": {
       "type": "spr",
       "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-15",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-16",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $10$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 20,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-17",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $2$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-18",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $5$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-19",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $9$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 18,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-20",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-21",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-22",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-23",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-24",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
       "tolerance": 0.01
     },
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
@@ -7332,18 +6911,6 @@
     "explanation": "Area = $\\dfrac{1}{2}bh$."
   },
   {
-    "id": "geom-tri-16",
-    "domain": "geometry",
-    "topic": "Area",
-    "question": "What is the area of a triangle with base $7$ and height $10$?",
-    "response": {
-      "type": "spr",
-      "answer": 35.0,
-      "tolerance": 0.01
-    },
-    "explanation": "Area = $\\dfrac{1}{2}bh$."
-  },
-  {
     "id": "geom-tri-17",
     "domain": "geometry",
     "topic": "Area",
@@ -7438,5 +7005,365 @@
       "tolerance": 0.01
     },
     "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-parallel-0",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $93^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 87,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-1",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $76^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 104,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-2",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $99^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 81,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-3",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $62^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 118,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-4",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $81^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 99,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-5",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $106^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 74,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-6",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $101^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 79,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-7",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $96^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 84,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-8",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $55^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 125,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-9",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $107^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 73,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-triangsum-0",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $80^\\circ$ and $63^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 37,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-1",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $80^\\circ$ and $47^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 53,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-2",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $36^\\circ$ and $43^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 101,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-3",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $44^\\circ$ and $30^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 106,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-4",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $35^\\circ$ and $59^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 86,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-5",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $71^\\circ$ and $51^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 58,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-6",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $56^\\circ$ and $64^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 60,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-7",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $80^\\circ$ and $72^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 28,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-circword-0",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 5 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 25\\pi$."
+  },
+  {
+    "id": "geom-circword-1",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 3 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 9\\pi$."
+  },
+  {
+    "id": "geom-circword-2",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 8 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 64,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 64\\pi$."
+  },
+  {
+    "id": "geom-circword-5",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 11 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 121\\pi$."
+  },
+  {
+    "id": "geom-circword-6",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 12 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 144\\pi$."
+  },
+  {
+    "id": "geom-volword-0",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 4 in \u00d7 3 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 72,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-1",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 8 in \u00d7 5 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 240,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-2",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 7 in \u00d7 8 in \u00d7 3 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 168,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-3",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 7 in \u00d7 5 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 210,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-4",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 5 in \u00d7 8 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 240,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-5",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 4 in \u00d7 3 in \u00d7 4 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 48,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-trig-1",
+    "domain": "geometry",
+    "topic": "Right triangle trigonometry",
+    "question": "In a right triangle, the side opposite an acute angle is 8 and the hypotenuse is 17. What is $\\sin$ of that angle?",
+    "response": {
+      "type": "spr",
+      "answer": 0.47,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sin = \\dfrac{\\text{opposite}}{\\text{hypotenuse}} = \\dfrac{8}{17}$."
   }
 ]

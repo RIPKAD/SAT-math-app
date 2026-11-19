@@ -24,18 +24,6 @@
     "explanation": "$20^2 + 21^2 = 29^2$."
   },
   {
-    "id": "geom-pyth-2",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
     "id": "geom-pyth-3",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -46,18 +34,6 @@
       "tolerance": 0.01
     },
     "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-4",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
   },
   {
     "id": "geom-pyth-5",
@@ -72,18 +48,6 @@
     "explanation": "$6^2 + 8^2 = 10^2$."
   },
   {
-    "id": "geom-pyth-6",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 29,
-      "tolerance": 0.01
-    },
-    "explanation": "$20^2 + 21^2 = 29^2$."
-  },
-  {
     "id": "geom-pyth-7",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -94,78 +58,6 @@
       "tolerance": 0.01
     },
     "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-8",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "$6^2 + 8^2 = 10^2$."
-  },
-  {
-    "id": "geom-pyth-9",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-10",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-11",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-12",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $6$ and $8$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "$6^2 + 8^2 = 10^2$."
-  },
-  {
-    "id": "geom-pyth-13",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
   },
   {
     "id": "geom-pyth-14",
@@ -180,54 +72,6 @@
     "explanation": "$8^2 + 15^2 = 17^2$."
   },
   {
-    "id": "geom-pyth-15",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-16",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
-    "id": "geom-pyth-17",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-18",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
     "id": "geom-pyth-19",
     "domain": "geometry",
     "topic": "Right triangles",
@@ -238,126 +82,6 @@
       "tolerance": 0.01
     },
     "explanation": "$3^2 + 4^2 = 5^2$."
-  },
-  {
-    "id": "geom-pyth-20",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-21",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-22",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-23",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
-    "id": "geom-pyth-24",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-25",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-26",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^2 + 4^2 = 5^2$."
-  },
-  {
-    "id": "geom-pyth-27",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
-    "id": "geom-pyth-28",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $8$ and $15$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 17,
-      "tolerance": 0.01
-    },
-    "explanation": "$8^2 + 15^2 = 17^2$."
-  },
-  {
-    "id": "geom-pyth-29",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
   },
   {
     "id": "geom-pyth-30",
@@ -372,127 +96,7 @@
     "explanation": "$9^2 + 40^2 = 41^2$."
   },
   {
-    "id": "geom-pyth-31",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-32",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-33",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 15,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 12^2 = 15^2$."
-  },
-  {
-    "id": "geom-pyth-34",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 29,
-      "tolerance": 0.01
-    },
-    "explanation": "$20^2 + 21^2 = 29^2$."
-  },
-  {
-    "id": "geom-pyth-35",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $7$ and $24$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "$7^2 + 24^2 = 25^2$."
-  },
-  {
-    "id": "geom-pyth-36",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $9$ and $40$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 41,
-      "tolerance": 0.01
-    },
-    "explanation": "$9^2 + 40^2 = 41^2$."
-  },
-  {
-    "id": "geom-pyth-37",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $20$ and $21$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 29,
-      "tolerance": 0.01
-    },
-    "explanation": "$20^2 + 21^2 = 29^2$."
-  },
-  {
-    "id": "geom-pyth-38",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $3$ and $4$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 5,
-      "tolerance": 0.01
-    },
-    "explanation": "$3^2 + 4^2 = 5^2$."
-  },
-  {
-    "id": "geom-pyth-39",
-    "domain": "geometry",
-    "topic": "Right triangles",
-    "question": "In a right triangle with legs $5$ and $12$, what is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 13,
-      "tolerance": 0.01
-    },
-    "explanation": "$5^2 + 12^2 = 13^2$."
-  },
-  {
     "id": "geom-circ-0",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 196,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 196\\pi$."
-  },
-  {
-    "id": "geom-circ-1",
     "domain": "geometry",
     "topic": "Circles",
     "question": "A circle has radius $14$. What is the coefficient of $\\pi$ in its area?",
@@ -529,18 +133,6 @@
   },
   {
     "id": "geom-circ-4",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 9,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 9\\pi$."
-  },
-  {
-    "id": "geom-circ-5",
     "domain": "geometry",
     "topic": "Circles",
     "question": "A circle has radius $3$. What is the coefficient of $\\pi$ in its area?",
@@ -600,91 +192,7 @@
     "explanation": "Area $= 100\\pi$."
   },
   {
-    "id": "geom-circ-10",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
-  },
-  {
     "id": "geom-circ-11",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-12",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 100,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 100\\pi$."
-  },
-  {
-    "id": "geom-circ-13",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-14",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-15",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $2$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 4\\pi$."
-  },
-  {
-    "id": "geom-circ-16",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $10$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 100,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 100\\pi$."
-  },
-  {
-    "id": "geom-circ-17",
     "domain": "geometry",
     "topic": "Circles",
     "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
@@ -708,18 +216,6 @@
     "explanation": "Area $= 144\\pi$."
   },
   {
-    "id": "geom-circ-19",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $5$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 25,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 25\\pi$."
-  },
-  {
     "id": "geom-circ-20",
     "domain": "geometry",
     "topic": "Circles",
@@ -730,18 +226,6 @@
       "tolerance": 0.01
     },
     "explanation": "Area $= 49\\pi$."
-  },
-  {
-    "id": "geom-circ-21",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
   },
   {
     "id": "geom-circ-22",
@@ -756,42 +240,6 @@
     "explanation": "Area $= 16\\pi$."
   },
   {
-    "id": "geom-circ-23",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 16\\pi$."
-  },
-  {
-    "id": "geom-circ-24",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
-    "id": "geom-circ-25",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
-  },
-  {
     "id": "geom-circ-26",
     "domain": "geometry",
     "topic": "Circles",
@@ -804,78 +252,6 @@
     "explanation": "Area $= 121\\pi$."
   },
   {
-    "id": "geom-circ-27",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $4$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 16\\pi$."
-  },
-  {
-    "id": "geom-circ-28",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 121,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 121\\pi$."
-  },
-  {
-    "id": "geom-circ-29",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
-  },
-  {
-    "id": "geom-circ-30",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $11$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 121,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 121\\pi$."
-  },
-  {
-    "id": "geom-circ-31",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $12$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 144,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 144\\pi$."
-  },
-  {
-    "id": "geom-circ-32",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $13$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 169,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 169\\pi$."
-  },
-  {
     "id": "geom-circ-33",
     "domain": "geometry",
     "topic": "Circles",
@@ -886,18 +262,6 @@
       "tolerance": 0.01
     },
     "explanation": "Area $= 36\\pi$."
-  },
-  {
-    "id": "geom-circ-34",
-    "domain": "geometry",
-    "topic": "Circles",
-    "question": "A circle has radius $15$. What is the coefficient of $\\pi$ in its area?",
-    "response": {
-      "type": "spr",
-      "answer": 225,
-      "tolerance": 0.01
-    },
-    "explanation": "Area $= 225\\pi$."
   },
   {
     "id": "geom-vol-0",
@@ -1296,18 +660,6 @@
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
   },
   {
-    "id": "geom-3060-3",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
     "id": "geom-3060-4",
     "domain": "geometry",
     "topic": "Special right triangles",
@@ -1315,30 +667,6 @@
     "response": {
       "type": "spr",
       "answer": 14,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-5",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-6",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
       "tolerance": 0.01
     },
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
@@ -1368,18 +696,6 @@
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
   },
   {
-    "id": "geom-3060-9",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $7$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 14,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
     "id": "geom-3060-10",
     "domain": "geometry",
     "topic": "Special right triangles",
@@ -1387,18 +703,6 @@
     "response": {
       "type": "spr",
       "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-11",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
       "tolerance": 0.01
     },
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
@@ -1416,18 +720,6 @@
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
   },
   {
-    "id": "geom-3060-13",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
     "id": "geom-3060-14",
     "domain": "geometry",
     "topic": "Special right triangles",
@@ -1435,126 +727,6 @@
     "response": {
       "type": "spr",
       "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-15",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-16",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $10$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 20,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-17",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $2$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 4,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-18",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $5$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 10,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-19",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $9$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 18,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-20",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $8$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 16,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-21",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $4$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 8,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-22",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-23",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
-      "tolerance": 0.01
-    },
-    "explanation": "Hypotenuse = 2 \u00d7 short leg."
-  },
-  {
-    "id": "geom-3060-24",
-    "domain": "geometry",
-    "topic": "Special right triangles",
-    "question": "In a 30-60-90 triangle, the short leg is $6$. What is the hypotenuse?",
-    "response": {
-      "type": "spr",
-      "answer": 12,
       "tolerance": 0.01
     },
     "explanation": "Hypotenuse = 2 \u00d7 short leg."
@@ -1752,18 +924,6 @@
     "explanation": "Area = $\\dfrac{1}{2}bh$."
   },
   {
-    "id": "geom-tri-16",
-    "domain": "geometry",
-    "topic": "Area",
-    "question": "What is the area of a triangle with base $7$ and height $10$?",
-    "response": {
-      "type": "spr",
-      "answer": 35.0,
-      "tolerance": 0.01
-    },
-    "explanation": "Area = $\\dfrac{1}{2}bh$."
-  },
-  {
     "id": "geom-tri-17",
     "domain": "geometry",
     "topic": "Area",
@@ -1858,5 +1018,365 @@
       "tolerance": 0.01
     },
     "explanation": "Area = $\\dfrac{1}{2}bh$."
+  },
+  {
+    "id": "geom-parallel-0",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $93^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 87,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-1",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $76^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 104,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-2",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $99^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 81,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-3",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $62^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 118,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-4",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $81^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 99,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-5",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $106^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 74,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-6",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $101^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 79,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-7",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $96^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 84,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-8",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $55^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 125,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-parallel-9",
+    "domain": "geometry",
+    "topic": "Lines and angles",
+    "question": "Two parallel lines are cut by a transversal. One of the angles measures $107^\\circ$. What is the measure of the consecutive interior angle?",
+    "response": {
+      "type": "spr",
+      "answer": 73,
+      "tolerance": 0.01
+    },
+    "explanation": "Consecutive interior angles are supplementary."
+  },
+  {
+    "id": "geom-triangsum-0",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $80^\\circ$ and $63^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 37,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-1",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $80^\\circ$ and $47^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 53,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-2",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $36^\\circ$ and $43^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 101,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-3",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $44^\\circ$ and $30^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 106,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-4",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $35^\\circ$ and $59^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 86,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-5",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $71^\\circ$ and $51^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 58,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-6",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $56^\\circ$ and $64^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 60,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-triangsum-7",
+    "domain": "geometry",
+    "topic": "Triangles",
+    "question": "In a triangle, two angles measure $80^\\circ$ and $72^\\circ$. What is the measure of the third angle?",
+    "response": {
+      "type": "spr",
+      "answer": 28,
+      "tolerance": 0.01
+    },
+    "explanation": "Angles in a triangle sum to 180\u00b0."
+  },
+  {
+    "id": "geom-circword-0",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 5 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 25,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 25\\pi$."
+  },
+  {
+    "id": "geom-circword-1",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 3 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 9,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 9\\pi$."
+  },
+  {
+    "id": "geom-circword-2",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 8 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 64,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 64\\pi$."
+  },
+  {
+    "id": "geom-circword-5",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 11 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 121,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 121\\pi$."
+  },
+  {
+    "id": "geom-circword-6",
+    "domain": "geometry",
+    "topic": "Circles",
+    "question": "A circular garden has a radius of 12 feet. What is the area of the garden in terms of $\\pi$? (Enter the coefficient of $\\pi$.)",
+    "response": {
+      "type": "spr",
+      "answer": 144,
+      "tolerance": 0.01
+    },
+    "explanation": "Area = $\\pi r^2 = 144\\pi$."
+  },
+  {
+    "id": "geom-volword-0",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 4 in \u00d7 3 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 72,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-1",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 8 in \u00d7 5 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 240,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-2",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 7 in \u00d7 8 in \u00d7 3 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 168,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-3",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 7 in \u00d7 5 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 210,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-4",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 5 in \u00d7 8 in \u00d7 6 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 240,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-volword-5",
+    "domain": "geometry",
+    "topic": "Volume",
+    "question": "A rectangular box has dimensions 4 in \u00d7 3 in \u00d7 4 in. What is its volume in cubic inches?",
+    "response": {
+      "type": "spr",
+      "answer": 48,
+      "tolerance": 0.01
+    },
+    "explanation": "Volume of rectangular prism = length \u00d7 width \u00d7 height."
+  },
+  {
+    "id": "geom-trig-1",
+    "domain": "geometry",
+    "topic": "Right triangle trigonometry",
+    "question": "In a right triangle, the side opposite an acute angle is 8 and the hypotenuse is 17. What is $\\sin$ of that angle?",
+    "response": {
+      "type": "spr",
+      "answer": 0.47,
+      "tolerance": 0.01
+    },
+    "explanation": "$\\sin = \\dfrac{\\text{opposite}}{\\text{hypotenuse}} = \\dfrac{8}{17}$."
   }
 ]
