@@ -1,4 +1,4 @@
-// SAT Math Practice App v1.1 (SPR input fix)
+// SAT Math Practice App v1.2 (unique questions per session)
 let allQuestions = [];
 let session = {
   questions: [],
@@ -13,7 +13,7 @@ const $ = id => document.getElementById(id);
 async function loadQuestions() {
   const res = await fetch("questions/all_questions.json");
   allQuestions = await res.json();
-  console.log(`Loaded ${allQuestions.length} questions (app v1.1)`);
+  console.log(`Loaded ${allQuestions.length} questions (app v1.2)`);
 }
 
 function shuffle(arr) {
@@ -35,7 +35,25 @@ function startSession(domain, count) {
   if (domain !== "mixed") {
     pool = allQuestions.filter(q => q.domain === domain);
   }
-  session.questions = shuffle(pool).slice(0, count);
+
+  // Deduplicate by id (primary) and by question text (fallback)
+  const seen = new Set();
+  const uniquePool = [];
+  for (const q of pool) {
+    const key = q.id || q.question;
+    if (!seen.has(key)) {
+      seen.add(key);
+      uniquePool.push(q);
+    }
+  }
+
+  const available = uniquePool.length;
+  const take = Math.min(count, available);
+  if (take < count) {
+    console.warn(`Only ${available} unique questions available for this domain (requested ${count})`);
+  }
+
+  session.questions = shuffle(uniquePool).slice(0, take);
 
   $("setup").classList.add("hidden");
   $("results").classList.add("hidden");
