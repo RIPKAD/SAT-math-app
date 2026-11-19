@@ -1,4 +1,4 @@
-// SAT Math Practice App
+// SAT Math Practice App v1.1 (SPR input fix)
 let allQuestions = [];
 let session = {
   questions: [],
@@ -13,7 +13,7 @@ const $ = id => document.getElementById(id);
 async function loadQuestions() {
   const res = await fetch("questions/all_questions.json");
   allQuestions = await res.json();
-  console.log(`Loaded ${allQuestions.length} questions`);
+  console.log(`Loaded ${allQuestions.length} questions (app v1.1)`);
 }
 
 function shuffle(arr) {
@@ -65,12 +65,16 @@ function showQuestion() {
   $("feedback").classList.add("hidden");
   $("next-btn").disabled = true;
 
-  // Clear previous
+  // Clear previous state
   $("choices").innerHTML = "";
   $("spr-input").classList.add("hidden");
-  $("spr-answer").value = "";
-  $("spr-answer").disabled = false;   // re-enable for next question
-  $("submit-spr").disabled = false;   // re-enable for next question
+  const sprInput = $("spr-answer");
+  const sprBtn = $("submit-spr");
+  sprInput.value = "";
+  sprInput.disabled = false;
+  sprInput.removeAttribute("disabled");
+  sprBtn.disabled = false;
+  sprBtn.removeAttribute("disabled");
 
   if (q.response.type === "mc") {
     q.response.choices.forEach((choice, idx) => {
@@ -85,7 +89,10 @@ function showQuestion() {
     });
   } else {
     $("spr-input").classList.remove("hidden");
-    $("spr-answer").focus();
+    // Ensure fully interactive
+    sprInput.disabled = false;
+    sprBtn.disabled = false;
+    setTimeout(() => sprInput.focus(), 50);
   }
 }
 
